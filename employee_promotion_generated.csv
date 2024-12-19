@@ -1,0 +1,1001 @@
+employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,awards_won,avg_training_score,is_promoted
+46021,Sales & Marketing,Guwahati,Master's,m,Indeed,0,44,2.7,6,4,80.24,1
+47111,Sales & Marketing,Hubli,High School,f,linkedin,3,41,0.4,7,3,52.13,1
+15859,Technology,Pondicherry,Master's,f,other,9,30,4.9,0,2,69.91,0
+47191,Operations,Chandigarh,High School,f,sourcing,8,21,0.5,3,2,69.06,0
+63753,Sales & Marketing,Gurgaon,High School,m,linkedin,2,49,3.3,10,2,94.39,0
+45393,HR,Amritsar,Bachelor's,m,other,6,24,4.8,17,3,62.94,0
+90638,Operations,Vadodara,Master's,m,other,2,49,3.2,5,1,73.88,1
+18974,Technology,Mysore,Bachelor's,f,Naukri,6,40,0.6,18,4,65.31,1
+63963,Technology,Kochi,Bachelor's,m,Indeed,7,44,4.9,15,3,83.06,0
+12233,Technology,Nagpur,Bachelor's,m,Indeed,0,39,1.2,2,4,78.4,0
+31050,Sales & Marketing,Ranchi,Master's,f,other,2,50,4.2,5,0,68.0,0
+25740,Technology,Guwahati,High School,m,Indeed,4,44,0.9,16,4,73.26,0
+93445,Sales & Marketing,Chennai,Bachelor's,m,linkedin,3,39,1.5,3,3,70.25,0
+63490,Operations,Hubli,High School,m,linkedin,8,48,1.2,10,4,62.33,0
+74079,Technology,Raipur,Master's,f,linkedin,2,42,2.8,9,4,85.45,1
+58815,HR,Kolkata,High School,f,sourcing,0,34,4.8,6,3,95.5,0
+50485,Sales & Marketing,Hyderabad,High School,m,sourcing,4,26,1.3,8,4,94.07,0
+30684,Sales & Marketing,Jamshedpur,High School,f,Indeed,3,39,0.2,17,2,67.76,0
+13621,Operations,Pune,Master's,m,other,6,44,1.0,1,1,99.17,1
+26201,Sales & Marketing,Jamshedpur,Bachelor's,f,sourcing,8,21,2.3,16,0,51.18,0
+51504,Operations,Noida,High School,m,Naukri,5,40,4.3,11,3,80.6,0
+61222,Technology,Chennai,Bachelor's,m,other,7,20,3.5,2,1,97.1,0
+79311,Operations,Kolkata,Bachelor's,m,sourcing,9,50,2.3,17,0,73.51,0
+16513,Technology,Coimbatore,High School,f,linkedin,5,30,4.1,15,4,67.48,1
+44726,Technology,Lucknow,High School,f,Indeed,0,34,1.8,5,1,90.17,0
+63013,Operations,Shillong,Master's,m,sourcing,5,44,4.0,3,1,87.98,0
+70981,Operations,Amritsar,Master's,f,Naukri,3,59,2.0,10,4,88.48,0
+59941,Technology,Vadodara,Bachelor's,f,linkedin,5,25,0.3,0,1,79.58,1
+77190,Operations,Shimla,Master's,f,other,2,28,0.1,11,3,73.5,0
+21201,HR,Lucknow,Bachelor's,f,linkedin,7,57,0.0,3,0,64.52,0
+25010,Operations,Bangalore,High School,f,Indeed,3,35,0.4,14,1,82.45,0
+37581,Technology,Chandigarh,High School,f,linkedin,5,26,3.6,12,2,55.61,0
+39662,Technology,Delhi,Master's,f,other,0,48,4.0,15,2,77.76,1
+48069,Technology,Chandigarh,Master's,m,Indeed,5,35,4.8,19,1,88.58,0
+57782,Operations,Noida,Bachelor's,f,sourcing,5,37,2.4,2,2,94.06,0
+97159,HR,Gurgaon,Master's,f,other,6,34,3.9,14,2,69.58,1
+59575,Operations,Raipur,Master's,f,Naukri,8,24,2.7,1,0,77.57,0
+70130,Technology,Surat,Master's,f,Naukri,5,46,2.6,5,0,70.63,1
+56140,Operations,Shillong,High School,m,linkedin,7,51,3.9,12,0,73.55,1
+79860,Technology,Mysore,Master's,f,other,6,22,3.3,1,1,97.26,0
+22226,Technology,Kolkata,Master's,m,Naukri,7,51,1.5,8,4,84.11,0
+44672,Sales & Marketing,Vadodara,Bachelor's,f,Naukri,7,28,4.4,4,1,96.73,0
+91476,HR,Dehradun,High School,f,linkedin,7,24,2.7,5,0,52.57,1
+45228,Technology,Amritsar,Master's,f,Indeed,5,41,1.3,15,4,61.05,1
+48612,Operations,Bhubaneswar,High School,m,linkedin,5,23,4.3,7,0,93.72,1
+19027,Sales & Marketing,Pune,Bachelor's,f,sourcing,7,57,2.2,13,0,92.16,1
+91685,HR,Ranchi,Bachelor's,f,sourcing,2,41,2.4,17,2,56.21,1
+52433,HR,Shillong,Master's,f,other,1,52,3.6,15,1,78.4,0
+51449,Sales & Marketing,Dehradun,Bachelor's,m,sourcing,5,51,4.8,0,3,54.4,0
+85667,HR,Noida,Bachelor's,f,Indeed,2,29,2.2,8,0,87.78,1
+94712,Operations,Nagpur,High School,m,Naukri,7,44,0.2,15,2,94.7,0
+44059,Sales & Marketing,Lucknow,High School,m,other,3,26,0.1,5,1,81.68,0
+54386,Sales & Marketing,Delhi,Bachelor's,m,other,0,47,0.8,15,3,87.16,1
+83121,Technology,Pondicherry,Bachelor's,f,Indeed,1,30,5.0,17,2,93.1,0
+33835,Sales & Marketing,Thiruvananthapuram,Master's,m,linkedin,3,28,4.4,5,0,54.81,1
+96276,Technology,Lucknow,High School,f,linkedin,9,51,2.3,6,1,62.14,1
+41740,Technology,Dehradun,High School,m,Naukri,5,27,4.7,14,2,78.51,0
+90327,Technology,Chennai,Bachelor's,m,Indeed,1,41,1.9,2,4,60.98,0
+47198,Operations,Patna,Master's,f,Indeed,5,45,1.5,8,3,90.12,0
+92427,Technology,Lucknow,Bachelor's,m,Naukri,8,59,4.9,11,0,65.32,1
+65057,Operations,Thiruvananthapuram,High School,f,Naukri,7,58,2.6,14,4,58.42,1
+85361,Sales & Marketing,Mumbai,Master's,f,other,0,46,4.2,2,4,60.69,1
+75994,Technology,Chennai,Master's,m,Naukri,1,56,4.8,7,3,76.1,0
+14486,Sales & Marketing,Noida,Bachelor's,m,other,8,23,3.5,9,0,56.87,0
+73549,Operations,Patna,High School,f,sourcing,9,49,3.5,1,2,77.25,0
+75876,Sales & Marketing,Kochi,Master's,f,linkedin,0,35,0.5,5,1,53.31,1
+46298,Sales & Marketing,Jaipur,Bachelor's,m,other,5,32,1.3,16,2,62.26,0
+70352,HR,Lucknow,High School,m,other,4,28,0.0,18,2,82.22,1
+50304,HR,Nagpur,High School,m,linkedin,6,40,1.0,4,1,54.07,1
+66156,HR,Noida,Master's,f,Naukri,7,55,3.8,16,0,66.74,0
+29468,Operations,Vadodara,Bachelor's,f,other,9,41,2.6,15,0,86.33,0
+88640,HR,Amritsar,High School,m,linkedin,2,29,0.3,9,0,94.14,0
+53959,Technology,Nagpur,Bachelor's,m,other,0,55,4.4,13,3,52.29,1
+12098,Technology,Dehradun,Master's,f,Naukri,2,48,0.4,5,0,97.57,0
+37829,Sales & Marketing,Ranchi,Master's,m,sourcing,4,30,4.2,5,4,89.13,0
+59818,HR,Visakhapatnam,Master's,f,Naukri,7,21,3.5,8,0,88.57,0
+85239,Operations,Kolkata,Master's,m,linkedin,7,40,2.4,18,2,63.29,1
+60078,Sales & Marketing,Nagpur,Master's,f,other,6,44,1.8,17,2,68.15,1
+59646,HR,Thiruvananthapuram,Master's,m,sourcing,5,46,0.6,9,4,68.64,0
+53110,HR,Bhubaneswar,Bachelor's,f,Indeed,7,24,4.6,0,2,62.83,1
+21690,Operations,Hubli,High School,f,Naukri,7,54,1.6,9,3,95.4,1
+39216,HR,Patna,High School,m,other,3,38,2.8,16,3,79.28,0
+97813,Operations,Kochi,Master's,f,Naukri,4,51,2.7,3,1,92.43,1
+71637,Technology,Vadodara,High School,f,other,1,42,3.8,4,4,98.35,0
+10980,HR,Delhi,Master's,f,other,7,42,0.3,15,2,90.79,1
+14535,Technology,Vadodara,Master's,f,Naukri,9,39,3.8,3,1,94.74,1
+22424,HR,Ahmedabad,Master's,f,Indeed,9,56,2.4,4,0,52.37,0
+82961,Technology,Hubli,Bachelor's,m,Indeed,5,36,4.3,12,3,83.01,1
+92324,Technology,Surat,Bachelor's,f,Indeed,7,22,3.3,10,2,99.86,0
+96989,Sales & Marketing,Bangalore,Master's,f,Indeed,0,48,1.4,1,2,83.36,1
+94283,Operations,Vadodara,Master's,m,sourcing,0,49,4.6,1,2,54.12,1
+33673,HR,Noida,Bachelor's,f,sourcing,5,30,2.3,6,1,88.47,0
+24075,HR,Jaipur,Master's,m,Indeed,0,55,3.4,19,3,83.99,0
+66431,Technology,Mumbai,Bachelor's,f,linkedin,0,43,1.8,10,2,70.83,1
+79197,Technology,Lucknow,High School,f,other,1,38,4.3,16,0,92.05,1
+65257,Technology,Hyderabad,Master's,m,sourcing,6,56,3.3,15,0,99.85,0
+75798,HR,Thiruvananthapuram,High School,f,Naukri,1,33,2.7,0,4,91.3,0
+26700,Technology,Gurgaon,Bachelor's,m,other,0,47,3.8,0,0,66.62,1
+99678,Sales & Marketing,Lucknow,High School,f,linkedin,6,33,2.6,15,0,65.99,1
+34363,HR,Surat,Master's,f,Naukri,6,25,0.7,18,1,74.23,0
+52815,Technology,Pondicherry,High School,m,linkedin,0,59,3.2,1,4,92.48,1
+88747,HR,Guwahati,High School,m,linkedin,9,45,4.2,15,2,86.97,0
+67011,Sales & Marketing,Thiruvananthapuram,High School,f,Indeed,5,26,1.8,17,3,71.7,1
+30395,Sales & Marketing,Bangalore,Master's,m,Indeed,1,56,4.7,11,4,86.85,0
+99948,Technology,Gurgaon,High School,m,sourcing,9,46,0.8,18,2,99.71,0
+77131,HR,Delhi,Bachelor's,m,sourcing,5,32,3.4,11,3,72.0,0
+81269,Operations,Nagpur,High School,f,Indeed,8,49,0.1,14,1,57.95,1
+75129,Technology,Ranchi,Bachelor's,f,linkedin,9,26,0.5,5,4,58.98,0
+59566,Sales & Marketing,Guwahati,Master's,f,Indeed,0,28,2.1,18,0,89.61,1
+25690,HR,Pune,High School,f,Naukri,2,25,2.1,4,2,71.16,0
+41681,Operations,Delhi,Master's,m,Naukri,1,54,0.5,18,3,60.33,0
+93416,Technology,Patna,High School,m,linkedin,1,28,1.0,6,4,94.08,0
+79474,HR,Chandigarh,High School,f,other,1,33,3.3,1,0,51.03,1
+59050,Operations,Visakhapatnam,Master's,m,Indeed,8,34,1.0,18,1,61.22,0
+74741,Technology,Mumbai,Bachelor's,m,sourcing,3,40,1.4,4,3,54.6,0
+86383,Technology,Hyderabad,Bachelor's,m,other,1,28,2.2,2,2,57.71,1
+29788,Sales & Marketing,Ranchi,Master's,m,linkedin,3,50,2.1,15,3,59.98,1
+54328,HR,Jamshedpur,Bachelor's,f,other,5,32,1.7,5,1,63.41,1
+20774,Technology,Bangalore,Bachelor's,m,Indeed,3,53,4.2,9,4,61.59,0
+83457,Technology,Noida,Master's,m,Indeed,4,57,0.3,16,4,74.86,1
+90681,HR,Lucknow,Bachelor's,f,other,0,55,0.9,5,1,96.13,1
+52287,Sales & Marketing,Lucknow,Master's,f,other,3,43,4.2,1,1,56.82,0
+23882,Technology,Shimla,Bachelor's,f,sourcing,3,47,3.9,8,2,89.48,1
+23898,HR,Bangalore,High School,f,sourcing,4,59,4.6,3,4,77.78,0
+68781,HR,Jamshedpur,Bachelor's,m,Naukri,9,37,3.6,0,2,79.79,0
+36712,Technology,Guwahati,High School,f,Indeed,4,46,4.0,18,2,88.3,0
+44356,Technology,Noida,Bachelor's,f,Indeed,9,42,2.8,9,1,76.02,0
+70534,Sales & Marketing,Delhi,Bachelor's,m,linkedin,5,48,1.2,19,0,70.32,1
+71975,Operations,Patna,Master's,m,Indeed,3,38,4.9,5,2,55.82,0
+29549,HR,Kochi,Master's,f,linkedin,0,48,1.2,14,4,91.11,1
+23896,Operations,Gurgaon,Master's,m,linkedin,4,28,4.2,13,3,60.23,0
+80356,Operations,Hyderabad,Bachelor's,m,Naukri,5,23,1.5,14,4,80.8,0
+39621,Sales & Marketing,Ranchi,High School,f,linkedin,9,33,1.7,16,0,91.02,0
+37757,Operations,Mysore,Master's,m,linkedin,6,24,0.2,2,3,78.54,0
+44053,Technology,Chennai,Master's,m,Naukri,1,27,3.1,17,4,53.54,0
+83899,Technology,Shimla,Master's,f,Naukri,7,23,1.1,15,4,96.05,0
+48815,Operations,Hyderabad,Bachelor's,f,Naukri,7,47,1.2,19,0,84.26,0
+78373,Operations,Mysore,Bachelor's,m,Indeed,8,25,4.9,17,3,58.41,1
+20024,HR,Kochi,Master's,m,Naukri,1,46,1.2,14,2,96.62,1
+25292,Technology,Chennai,High School,m,linkedin,9,34,3.4,4,2,55.79,0
+49607,Sales & Marketing,Shimla,High School,m,linkedin,0,29,2.9,13,4,64.95,0
+80671,HR,Pune,Master's,f,sourcing,4,44,0.8,9,3,55.38,1
+46542,Operations,Chandigarh,High School,f,other,1,45,3.9,6,0,54.92,1
+79023,HR,Jamshedpur,Master's,f,sourcing,1,23,3.9,12,0,62.81,0
+35774,Operations,Thiruvananthapuram,High School,f,linkedin,1,35,4.1,4,0,53.74,1
+89832,Technology,Ahmedabad,Bachelor's,m,sourcing,4,25,0.6,18,2,97.24,1
+93235,Sales & Marketing,Hubli,Master's,f,Indeed,2,57,1.9,12,2,58.01,1
+42243,Operations,Kochi,High School,f,other,3,28,1.1,6,1,96.74,0
+79226,Sales & Marketing,Chandigarh,Master's,f,other,3,45,4.3,8,0,54.15,1
+11051,Operations,Chennai,Master's,f,Naukri,6,22,3.6,16,4,72.75,0
+17424,HR,Mumbai,Master's,m,other,6,57,0.9,7,2,73.0,0
+66384,Sales & Marketing,Hubli,Bachelor's,m,sourcing,5,46,0.2,18,4,83.84,0
+89768,HR,Vadodara,Bachelor's,f,Naukri,5,35,2.8,3,2,72.68,1
+89843,Sales & Marketing,Patna,Master's,f,Naukri,1,45,2.2,2,4,60.45,0
+49872,Sales & Marketing,Pune,High School,m,linkedin,7,39,0.1,19,0,79.68,1
+58062,Technology,Delhi,Master's,f,Naukri,0,28,3.3,9,4,99.1,0
+34091,Technology,Pondicherry,Bachelor's,m,linkedin,3,46,0.8,8,2,92.07,1
+57957,HR,Hyderabad,Bachelor's,m,Naukri,3,36,3.0,4,1,75.95,1
+10707,HR,Jaipur,Master's,m,other,1,42,3.0,12,2,87.54,1
+48464,Sales & Marketing,Pune,Bachelor's,m,Indeed,9,58,1.9,12,4,66.38,0
+81463,Operations,Hyderabad,Master's,m,other,1,36,4.1,18,1,69.66,1
+66590,Operations,Mumbai,Master's,f,other,1,21,3.9,0,0,97.8,1
+70867,Technology,Mumbai,Bachelor's,f,Indeed,5,53,2.3,1,2,59.53,1
+10241,Technology,Ranchi,Master's,f,Indeed,7,22,4.0,15,1,68.13,1
+65412,Operations,Bhubaneswar,Master's,f,other,6,29,1.3,15,2,96.8,0
+12633,Operations,Bhubaneswar,High School,m,linkedin,0,25,2.8,18,0,84.28,0
+17084,Technology,Surat,Master's,m,sourcing,2,37,3.7,13,0,95.19,0
+93766,Operations,Pune,Master's,f,Indeed,7,57,3.4,19,3,65.63,0
+28397,Operations,Pondicherry,Master's,f,other,7,40,1.1,18,4,91.91,1
+16574,Operations,Shimla,Bachelor's,f,sourcing,8,53,3.8,6,2,82.36,1
+36453,Technology,Bangalore,Master's,m,other,4,59,0.6,12,4,61.72,0
+54637,Technology,Jamshedpur,High School,f,Naukri,6,32,1.0,8,2,71.22,0
+70922,HR,Hubli,High School,f,Naukri,2,56,0.8,2,2,82.19,1
+33211,Technology,Amritsar,Master's,m,Naukri,1,39,3.8,6,2,98.41,1
+94417,Technology,Pondicherry,Bachelor's,m,Naukri,7,51,4.4,7,2,73.77,0
+89067,Sales & Marketing,Surat,Bachelor's,f,other,9,27,4.7,19,4,96.43,0
+51773,Technology,Raipur,High School,f,sourcing,5,25,4.4,5,0,71.82,1
+70197,Operations,Dehradun,High School,f,Naukri,7,41,4.4,6,2,75.82,1
+66034,Technology,Shillong,Bachelor's,m,linkedin,8,55,1.1,2,0,61.32,1
+14938,HR,Dehradun,Master's,m,Naukri,1,52,0.1,8,3,64.84,1
+21061,Sales & Marketing,Guwahati,Bachelor's,f,Indeed,5,57,4.1,11,2,99.48,1
+70060,Operations,Ahmedabad,High School,f,linkedin,3,29,5.0,18,3,84.9,0
+84797,Operations,Shimla,Bachelor's,m,sourcing,9,54,4.6,3,3,51.65,1
+41373,HR,Chandigarh,Bachelor's,m,sourcing,5,42,0.9,14,1,59.82,0
+63699,Sales & Marketing,Visakhapatnam,Master's,f,Indeed,5,29,3.0,9,2,53.21,1
+52157,Technology,Kochi,Master's,m,sourcing,5,36,0.6,5,1,82.32,1
+62396,HR,Gurgaon,Master's,f,other,6,36,4.3,18,4,96.83,1
+48595,Operations,Visakhapatnam,Master's,f,sourcing,1,37,2.9,10,2,81.52,0
+36162,Operations,Shimla,High School,m,Indeed,7,49,3.8,10,4,89.12,1
+63260,Sales & Marketing,Delhi,High School,f,sourcing,8,43,3.6,6,3,58.39,1
+65350,HR,Mysore,High School,f,sourcing,9,52,5.0,5,1,75.42,1
+99784,Sales & Marketing,Shillong,High School,f,Indeed,8,54,2.2,16,2,96.53,1
+92004,Operations,Kochi,Bachelor's,m,other,5,58,2.4,16,0,62.08,1
+74410,Technology,Pune,High School,m,other,9,21,3.2,2,1,79.76,0
+29425,Technology,Mumbai,Bachelor's,m,linkedin,1,23,3.3,7,4,93.75,1
+86145,HR,Chennai,Master's,m,sourcing,9,53,1.1,14,0,74.54,0
+33971,Sales & Marketing,Lucknow,High School,f,other,1,31,1.5,14,1,92.14,1
+30248,Sales & Marketing,Noida,Bachelor's,m,linkedin,4,44,3.8,17,1,55.18,1
+40862,HR,Nagpur,High School,m,Indeed,9,29,1.9,17,0,74.37,1
+11362,Operations,Pune,Bachelor's,m,linkedin,0,43,1.0,17,2,79.34,0
+76350,Sales & Marketing,Jaipur,Bachelor's,f,Indeed,7,58,3.2,10,2,87.23,0
+75303,Operations,Ranchi,High School,f,other,0,56,1.7,14,1,65.01,0
+85620,HR,Mumbai,Master's,f,Naukri,8,32,3.7,12,0,84.99,0
+38435,Technology,Ahmedabad,Bachelor's,m,Indeed,6,36,3.8,6,1,99.73,1
+80463,Technology,Chandigarh,Bachelor's,f,sourcing,9,35,2.1,6,1,61.21,1
+79569,HR,Vadodara,Master's,f,sourcing,6,30,3.3,18,1,94.21,0
+54121,HR,Surat,Master's,m,other,8,54,0.8,1,1,79.51,0
+61965,Technology,Patna,High School,f,linkedin,6,26,1.5,0,2,79.53,0
+17156,Operations,Jaipur,Master's,f,sourcing,2,48,1.8,9,3,88.79,1
+34889,Technology,Bangalore,Master's,f,Indeed,4,26,0.8,3,1,74.11,1
+44932,Operations,Jaipur,Master's,m,Indeed,7,57,4.4,1,1,92.76,1
+34149,Operations,Chandigarh,Bachelor's,m,other,0,31,2.5,3,1,73.12,0
+72708,Sales & Marketing,Noida,High School,f,linkedin,6,32,2.8,6,3,76.15,1
+34345,Operations,Jaipur,Master's,m,other,8,29,4.4,10,1,94.3,0
+41319,HR,Bangalore,High School,f,Naukri,5,58,1.5,19,0,96.7,0
+80044,HR,Hubli,Master's,m,other,5,51,0.1,12,3,70.85,0
+62411,Sales & Marketing,Kolkata,Master's,f,other,9,35,0.7,6,3,87.97,0
+35196,HR,Surat,High School,m,Naukri,3,57,4.8,9,0,62.56,0
+82923,Sales & Marketing,Shimla,High School,f,sourcing,1,32,2.1,10,4,94.73,0
+93857,Sales & Marketing,Nagpur,Master's,m,Indeed,3,32,2.8,11,3,91.3,1
+43286,Sales & Marketing,Bangalore,Master's,f,Naukri,3,46,0.6,19,0,62.73,0
+19999,Operations,Shillong,Master's,m,Indeed,1,38,0.1,3,4,59.99,1
+58389,Operations,Kolkata,Master's,m,Indeed,3,45,4.4,14,0,72.1,0
+30963,Operations,Jaipur,High School,m,Naukri,8,33,1.1,1,3,56.32,0
+53468,HR,Hyderabad,Master's,m,Indeed,1,37,2.9,8,3,85.71,0
+67272,Technology,Kolkata,Master's,m,Naukri,2,27,2.8,10,3,73.02,1
+74063,Technology,Hyderabad,Master's,f,other,2,35,0.8,2,1,94.04,0
+90926,Sales & Marketing,Vadodara,Master's,m,other,4,25,4.7,18,2,64.03,0
+69187,Technology,Kolkata,Bachelor's,m,other,3,25,0.6,11,3,85.22,1
+94999,Operations,Ranchi,Master's,f,linkedin,9,57,3.5,15,0,90.3,1
+29928,Operations,Ranchi,High School,f,Naukri,5,26,0.9,3,4,76.29,0
+98971,Sales & Marketing,Thiruvananthapuram,Bachelor's,m,Naukri,2,24,1.2,7,4,74.09,1
+89512,Operations,Hyderabad,Master's,m,Indeed,5,26,0.7,8,3,87.23,0
+69517,Technology,Gurgaon,High School,f,other,8,44,4.7,4,1,79.08,0
+64560,Sales & Marketing,Amritsar,Master's,f,Indeed,6,58,2.8,7,0,73.89,1
+46972,Sales & Marketing,Pondicherry,Bachelor's,m,Indeed,8,51,3.9,14,0,53.42,1
+35460,Sales & Marketing,Amritsar,Bachelor's,m,linkedin,0,43,2.0,14,0,67.22,0
+80694,Sales & Marketing,Ahmedabad,High School,m,other,1,52,3.3,7,2,94.83,0
+31950,Technology,Pune,High School,m,Naukri,5,38,3.0,5,4,91.02,1
+67622,Sales & Marketing,Chandigarh,Bachelor's,f,Indeed,7,53,4.7,17,2,62.3,0
+47268,Operations,Amritsar,Master's,f,Indeed,1,26,2.4,16,2,78.92,0
+91800,Sales & Marketing,Bangalore,Bachelor's,m,other,2,24,3.6,14,3,52.88,0
+37488,Operations,Ahmedabad,Master's,f,other,2,59,4.6,4,2,67.72,1
+38320,Operations,Indore,Bachelor's,f,Indeed,1,41,2.1,11,3,56.55,1
+90487,Operations,Hyderabad,High School,f,Naukri,0,25,0.8,10,4,75.2,1
+17843,Operations,Chandigarh,Master's,f,linkedin,6,21,3.6,0,1,52.58,1
+44717,HR,Hubli,High School,f,Naukri,0,36,0.9,4,1,64.96,1
+88150,HR,Patna,Bachelor's,m,linkedin,0,52,2.9,2,2,63.05,1
+99215,Technology,Shillong,Bachelor's,f,Naukri,9,27,2.4,1,4,57.48,1
+55254,Operations,Nagpur,Master's,m,other,7,41,1.6,10,0,93.13,0
+51100,Sales & Marketing,Lucknow,High School,m,Naukri,0,56,3.9,17,1,77.22,1
+63939,Technology,Patna,Bachelor's,f,sourcing,2,33,2.5,2,0,74.48,0
+13247,HR,Lucknow,Master's,f,Naukri,1,47,4.4,8,0,78.48,0
+31748,Sales & Marketing,Delhi,Bachelor's,f,Indeed,2,49,4.0,3,2,50.75,0
+51516,Operations,Chennai,Bachelor's,m,other,4,56,2.1,13,1,73.19,1
+65404,Operations,Mumbai,Master's,m,linkedin,3,41,2.4,8,4,66.94,0
+81850,Sales & Marketing,Delhi,Master's,m,other,0,23,2.6,16,4,86.85,0
+51197,Operations,Mumbai,Bachelor's,f,other,1,29,0.4,11,3,67.04,1
+28049,Technology,Mysore,Bachelor's,m,Naukri,9,48,5.0,4,4,91.33,1
+20012,HR,Amritsar,Master's,m,Naukri,8,53,1.2,16,3,67.11,1
+18199,Technology,Amritsar,Bachelor's,f,sourcing,8,43,0.6,18,0,77.88,0
+31932,Operations,Kochi,Bachelor's,m,other,5,49,3.2,2,3,64.68,1
+87826,HR,Kochi,Master's,m,Indeed,3,53,1.5,16,4,79.17,1
+75807,HR,Mumbai,Bachelor's,m,sourcing,7,41,2.5,4,4,99.78,1
+56597,Technology,Shimla,Bachelor's,f,linkedin,4,36,4.2,7,1,97.62,0
+20751,Technology,Bangalore,Bachelor's,f,linkedin,7,50,0.9,10,1,59.48,0
+61538,Technology,Pune,Master's,f,linkedin,9,28,1.5,6,4,96.05,1
+78573,HR,Hyderabad,High School,f,Indeed,7,24,2.8,13,1,65.89,0
+83672,Sales & Marketing,Kochi,Master's,m,other,2,51,2.9,4,4,83.28,1
+47427,HR,Jaipur,High School,m,other,6,48,1.7,6,3,72.3,1
+49373,Sales & Marketing,Dehradun,Master's,f,Naukri,2,32,3.6,15,3,54.18,1
+53485,Sales & Marketing,Thiruvananthapuram,Bachelor's,f,Naukri,7,45,1.6,17,1,61.0,1
+91881,HR,Chennai,Bachelor's,m,other,8,46,2.3,8,1,88.78,1
+84976,Technology,Pondicherry,Master's,m,Indeed,7,55,2.9,16,4,56.05,0
+20520,Technology,Kochi,Master's,m,Indeed,6,56,2.4,6,2,94.77,1
+78949,Technology,Vadodara,High School,f,sourcing,3,26,0.3,17,2,93.77,0
+65294,Technology,Dehradun,High School,f,other,7,38,1.7,6,3,86.98,0
+32779,Sales & Marketing,Shillong,High School,m,sourcing,5,58,0.2,13,4,59.44,1
+59628,Operations,Delhi,Bachelor's,m,Indeed,5,38,1.9,3,0,79.72,0
+13139,Technology,Noida,Master's,m,sourcing,6,57,1.5,4,3,94.14,0
+90509,Technology,Hyderabad,High School,f,sourcing,6,20,1.9,16,4,54.28,0
+49078,Sales & Marketing,Shillong,High School,f,Indeed,9,50,1.9,18,3,89.03,0
+35406,HR,Amritsar,High School,m,Indeed,8,22,3.6,3,4,81.76,1
+26061,Operations,Visakhapatnam,Bachelor's,m,Indeed,4,43,3.7,7,1,96.51,1
+23502,Operations,Surat,Bachelor's,f,other,0,52,3.7,18,0,74.09,0
+49545,Technology,Pune,Master's,f,Naukri,0,38,1.0,13,0,92.12,1
+56785,Operations,Amritsar,Master's,m,sourcing,5,54,4.4,5,2,96.47,1
+10279,Operations,Nagpur,Bachelor's,m,linkedin,6,26,0.3,1,4,61.9,1
+60152,Operations,Noida,High School,f,Indeed,6,48,0.2,16,1,84.8,1
+29916,Sales & Marketing,Dehradun,Master's,f,Indeed,7,29,2.5,5,4,60.2,1
+92582,Operations,Jamshedpur,Bachelor's,m,Indeed,7,36,2.4,15,4,63.62,1
+14078,Operations,Delhi,High School,m,linkedin,0,28,0.2,9,1,59.3,1
+57519,Technology,Bangalore,Bachelor's,m,other,7,39,2.5,3,4,70.32,1
+79265,Operations,Hubli,High School,m,sourcing,7,57,2.9,12,3,90.97,1
+49291,Technology,Shillong,Bachelor's,f,other,6,35,0.6,6,4,74.54,0
+89318,HR,Kolkata,High School,f,linkedin,1,37,1.5,1,4,51.84,0
+61217,Sales & Marketing,Ranchi,Bachelor's,m,Indeed,9,54,1.0,8,3,59.21,1
+11419,HR,Guwahati,Master's,f,Naukri,7,39,4.7,8,4,92.21,1
+71362,HR,Chennai,Bachelor's,f,sourcing,6,43,0.4,5,2,80.32,1
+61941,Technology,Dehradun,Master's,m,Indeed,0,46,4.8,12,2,85.27,0
+71581,Sales & Marketing,Chandigarh,Master's,f,Indeed,4,50,3.1,14,2,93.26,1
+34964,HR,Noida,High School,f,linkedin,2,59,1.3,8,1,63.75,1
+15789,Operations,Delhi,Master's,f,sourcing,6,47,3.6,14,2,63.61,1
+76352,Technology,Thiruvananthapuram,High School,f,linkedin,9,33,4.9,4,1,70.5,1
+10962,Technology,Bhubaneswar,Master's,m,Naukri,3,38,2.8,19,0,98.99,1
+42804,HR,Pondicherry,High School,m,sourcing,4,29,0.7,3,1,66.06,1
+79097,HR,Kochi,Master's,f,sourcing,8,59,4.1,14,1,56.39,0
+38577,HR,Nagpur,High School,f,other,0,38,4.5,10,3,67.02,0
+19400,Technology,Pondicherry,Master's,m,linkedin,0,34,1.6,2,4,98.47,1
+13007,Sales & Marketing,Chennai,Master's,f,sourcing,5,53,3.5,0,3,52.32,1
+39272,Operations,Indore,Master's,m,Indeed,7,52,0.7,0,1,52.46,1
+61127,HR,Delhi,Master's,m,other,9,21,2.0,2,1,77.05,0
+90578,Sales & Marketing,Bhubaneswar,High School,m,Indeed,1,55,0.7,8,0,73.75,1
+46819,Technology,Ranchi,Master's,m,Indeed,0,26,0.1,8,0,76.53,1
+48806,Sales & Marketing,Bhubaneswar,Bachelor's,m,sourcing,5,55,2.5,18,1,55.16,0
+35066,Sales & Marketing,Ranchi,Master's,f,other,1,42,1.0,0,4,54.87,0
+95461,Sales & Marketing,Mysore,Master's,m,other,2,21,4.6,6,4,77.63,1
+38664,Technology,Bangalore,Bachelor's,f,other,3,30,1.8,8,2,91.22,1
+60954,Sales & Marketing,Vadodara,High School,m,Naukri,6,44,3.0,11,1,77.16,1
+69149,HR,Jaipur,Bachelor's,m,Naukri,9,51,4.1,17,4,64.31,1
+60221,Operations,Gurgaon,Master's,m,linkedin,2,37,0.6,14,1,69.55,0
+36188,HR,Nagpur,Bachelor's,f,other,9,20,3.8,3,1,84.34,1
+11956,Sales & Marketing,Chandigarh,Bachelor's,m,Naukri,9,56,3.7,15,0,82.84,0
+38661,Sales & Marketing,Lucknow,Master's,f,Indeed,4,48,4.7,19,2,54.0,0
+44122,Technology,Pune,High School,m,Indeed,8,47,2.3,18,1,81.26,1
+63108,Technology,Chennai,High School,m,other,7,38,1.2,14,0,57.08,0
+70249,Sales & Marketing,Hubli,High School,f,linkedin,7,43,2.7,18,1,84.35,0
+33584,Sales & Marketing,Raipur,High School,m,sourcing,6,53,1.5,5,2,91.84,0
+76135,Sales & Marketing,Kochi,High School,m,sourcing,3,37,1.0,4,4,88.8,0
+54696,Technology,Mysore,Master's,f,Naukri,4,50,2.3,14,4,62.13,0
+82043,Technology,Jaipur,Master's,m,sourcing,8,37,3.8,10,4,58.39,1
+24222,Operations,Indore,Bachelor's,m,other,0,35,4.3,4,0,97.56,1
+60404,Operations,Lucknow,High School,m,Indeed,7,41,3.7,2,0,65.11,0
+46788,Operations,Delhi,Bachelor's,f,linkedin,0,46,3.5,8,4,86.85,1
+29744,Technology,Shimla,Master's,m,linkedin,0,28,3.6,16,0,52.34,1
+97591,Operations,Chennai,High School,f,Indeed,2,25,1.4,6,2,92.31,0
+72137,Sales & Marketing,Mysore,Master's,f,Naukri,0,51,4.6,11,4,73.75,0
+74790,Technology,Pondicherry,High School,f,other,1,20,1.9,10,3,92.98,0
+71104,Technology,Nagpur,Master's,f,Indeed,4,33,3.4,15,1,70.52,0
+57682,Operations,Shimla,Bachelor's,f,Naukri,6,41,3.6,0,0,54.96,1
+77827,Operations,Guwahati,Master's,m,linkedin,5,35,4.6,2,3,97.77,0
+75506,Operations,Chandigarh,Bachelor's,m,Naukri,8,53,1.3,6,2,82.05,1
+66899,Operations,Delhi,Bachelor's,m,Indeed,9,42,1.8,17,0,91.55,0
+20599,Operations,Jaipur,Master's,f,Naukri,7,49,1.7,17,0,80.21,1
+33263,HR,Nagpur,High School,m,sourcing,5,22,2.0,0,1,92.37,0
+71794,HR,Amritsar,High School,f,Indeed,7,38,1.4,9,3,79.95,0
+23253,Technology,Gurgaon,High School,m,linkedin,8,46,1.7,9,3,66.5,1
+60111,Sales & Marketing,Mysore,High School,f,other,5,46,2.6,13,2,53.03,0
+96164,Sales & Marketing,Coimbatore,High School,m,linkedin,2,29,0.5,9,3,97.2,1
+96250,Technology,Gurgaon,High School,f,Indeed,8,39,2.5,11,3,59.44,0
+98567,Technology,Jamshedpur,Bachelor's,m,linkedin,5,58,2.9,0,4,94.8,1
+26191,HR,Vadodara,Master's,f,Indeed,8,48,2.4,8,0,59.32,0
+72188,Technology,Shimla,Bachelor's,f,sourcing,3,45,3.5,11,0,51.93,0
+75371,Sales & Marketing,Ahmedabad,High School,m,sourcing,0,29,3.5,12,4,70.47,1
+14876,Operations,Kochi,Master's,m,other,4,24,1.8,16,1,81.52,0
+66685,Technology,Shimla,Bachelor's,f,linkedin,7,33,2.6,13,0,77.72,1
+56330,Technology,Thiruvananthapuram,High School,m,other,0,50,1.0,10,3,85.21,1
+52402,Sales & Marketing,Pune,Bachelor's,f,other,9,29,4.2,17,0,83.67,1
+12287,Technology,Hyderabad,Bachelor's,m,linkedin,2,55,1.2,11,0,56.53,1
+56475,HR,Coimbatore,Master's,f,Naukri,9,31,4.6,16,0,77.79,1
+39440,Operations,Amritsar,High School,m,Indeed,4,31,3.6,12,4,91.9,0
+67072,Sales & Marketing,Bhubaneswar,Master's,f,Naukri,4,28,2.2,2,4,92.51,0
+46461,HR,Mysore,High School,m,linkedin,3,57,3.7,18,0,88.3,1
+66179,HR,Delhi,Master's,m,Indeed,5,51,2.5,3,1,71.55,1
+48016,Technology,Jaipur,Bachelor's,m,sourcing,4,38,2.8,10,2,85.36,1
+62597,Technology,Coimbatore,High School,m,linkedin,7,41,3.6,5,4,52.29,0
+62175,Operations,Hubli,Master's,f,sourcing,7,32,4.9,10,2,76.43,1
+33118,HR,Pondicherry,Master's,f,Indeed,5,32,1.2,14,3,52.46,1
+23601,Technology,Gurgaon,Bachelor's,m,sourcing,5,23,1.4,17,0,67.54,0
+56586,Operations,Chennai,Master's,f,linkedin,6,58,0.1,14,4,64.58,0
+99133,HR,Lucknow,High School,f,other,6,45,4.3,11,4,57.49,1
+67116,Sales & Marketing,Mysore,Master's,m,Indeed,5,42,2.2,14,0,81.94,0
+68248,Operations,Guwahati,High School,f,linkedin,5,24,0.9,4,0,68.79,0
+68036,HR,Ahmedabad,Bachelor's,m,linkedin,2,49,3.7,9,1,70.21,0
+10699,Operations,Gurgaon,Bachelor's,m,Naukri,6,43,0.9,9,1,68.73,0
+98392,Operations,Vadodara,High School,f,other,9,43,3.9,0,1,87.64,1
+60976,Sales & Marketing,Mumbai,Master's,m,linkedin,0,33,3.1,17,4,50.58,0
+78257,HR,Ranchi,Bachelor's,f,linkedin,5,47,1.2,17,2,89.63,0
+11023,Operations,Mumbai,High School,m,Indeed,9,25,4.7,18,1,68.0,1
+29289,Sales & Marketing,Mysore,Bachelor's,f,linkedin,4,45,0.6,7,2,66.54,0
+35306,Technology,Gurgaon,High School,f,other,5,52,0.4,17,4,82.03,0
+92452,Operations,Bhubaneswar,High School,m,Naukri,4,32,5.0,14,1,90.13,0
+40297,HR,Mysore,Master's,m,Naukri,3,56,1.3,13,4,69.98,1
+76525,Sales & Marketing,Vadodara,Master's,f,sourcing,5,57,4.7,13,2,91.78,1
+35788,Technology,Shillong,Bachelor's,m,other,0,31,4.9,5,0,82.86,0
+56221,Sales & Marketing,Hyderabad,High School,f,linkedin,4,28,4.6,11,0,99.14,1
+57815,HR,Dehradun,Bachelor's,f,other,8,23,3.8,14,1,58.7,1
+43021,HR,Hubli,Bachelor's,m,linkedin,0,45,2.9,11,2,74.32,0
+98635,Sales & Marketing,Dehradun,High School,m,Indeed,9,53,4.1,11,2,94.08,0
+27322,Operations,Ahmedabad,Master's,m,sourcing,0,30,2.0,5,4,93.39,1
+53492,Operations,Hubli,High School,m,sourcing,6,29,2.4,0,2,51.08,1
+79969,Technology,Shimla,High School,f,other,9,22,1.0,8,1,65.4,1
+20500,HR,Pondicherry,Bachelor's,f,Indeed,1,37,0.5,12,4,57.24,0
+36365,Sales & Marketing,Jamshedpur,Master's,f,Naukri,6,29,3.9,9,1,86.0,1
+66476,Operations,Hyderabad,Master's,m,Naukri,7,25,4.2,7,2,98.52,1
+32194,Sales & Marketing,Bangalore,High School,f,linkedin,1,23,4.5,11,2,79.07,1
+71840,HR,Raipur,Master's,f,sourcing,1,55,3.1,10,0,90.81,1
+24154,Operations,Chandigarh,Master's,f,Indeed,5,47,2.3,19,1,98.66,0
+24079,HR,Pondicherry,High School,m,sourcing,6,34,0.3,8,2,99.93,0
+81410,Technology,Kolkata,Bachelor's,f,Indeed,7,49,0.2,10,2,85.08,1
+67218,Sales & Marketing,Indore,Bachelor's,f,Naukri,0,31,3.5,17,4,67.97,0
+74262,Operations,Nagpur,Bachelor's,f,sourcing,2,24,4.0,5,2,91.36,1
+17373,Technology,Jaipur,Bachelor's,f,other,7,30,2.3,11,4,99.05,1
+77713,HR,Vadodara,High School,f,Indeed,5,28,1.7,2,4,84.58,1
+11863,Sales & Marketing,Chennai,Bachelor's,f,sourcing,6,45,4.0,5,4,58.02,0
+82661,Operations,Dehradun,Bachelor's,f,Naukri,1,26,4.4,19,2,54.39,0
+56158,Technology,Bangalore,Bachelor's,f,sourcing,6,56,2.6,8,1,67.67,1
+20026,Operations,Pondicherry,Master's,m,other,2,20,1.0,16,2,50.28,0
+23561,HR,Bangalore,Master's,f,Naukri,5,44,4.8,6,1,79.22,1
+13644,Operations,Ahmedabad,Bachelor's,f,other,7,56,0.4,13,4,95.6,0
+83652,Technology,Delhi,Master's,m,other,4,32,4.2,14,2,95.34,1
+49661,Sales & Marketing,Bhubaneswar,Bachelor's,m,Indeed,6,30,4.1,12,1,66.85,0
+65503,Sales & Marketing,Coimbatore,Master's,f,other,6,27,0.2,6,1,62.42,1
+51499,Technology,Shillong,High School,m,other,4,32,3.2,2,1,80.87,0
+86454,Technology,Bangalore,Master's,f,Indeed,3,25,1.4,9,0,70.33,1
+58247,Technology,Bhubaneswar,High School,m,sourcing,1,20,0.4,12,4,80.61,1
+47039,Operations,Shimla,Bachelor's,f,Indeed,4,20,3.2,9,4,74.24,1
+93244,Sales & Marketing,Dehradun,Bachelor's,f,Naukri,3,35,4.9,19,3,83.03,0
+51820,Operations,Jaipur,Master's,f,Naukri,5,33,1.7,10,3,79.59,0
+30201,HR,Ahmedabad,Bachelor's,f,linkedin,2,32,4.8,17,0,88.45,0
+56472,Operations,Indore,Bachelor's,f,Naukri,2,57,4.8,15,0,84.39,0
+20783,Sales & Marketing,Chandigarh,Bachelor's,f,Naukri,9,34,2.6,6,3,94.87,0
+56193,Sales & Marketing,Mumbai,Bachelor's,m,Indeed,0,51,4.5,3,2,76.16,0
+69034,Sales & Marketing,Kolkata,High School,m,Naukri,9,46,2.6,12,1,65.04,1
+67924,Sales & Marketing,Coimbatore,Bachelor's,m,linkedin,1,35,1.9,3,3,65.81,0
+28886,Technology,Ahmedabad,High School,m,linkedin,7,30,4.9,10,3,93.2,1
+62233,Sales & Marketing,Patna,Master's,m,other,2,57,0.4,17,1,64.67,0
+93206,Technology,Kolkata,Bachelor's,m,linkedin,9,20,3.9,15,3,89.2,1
+81657,HR,Kolkata,High School,m,Indeed,4,52,2.0,18,2,91.3,0
+63093,Sales & Marketing,Hyderabad,Master's,m,sourcing,1,21,0.3,5,2,75.8,1
+45553,Operations,Amritsar,High School,f,other,3,27,1.2,7,4,98.14,1
+44877,Technology,Indore,Bachelor's,m,sourcing,5,23,3.7,2,0,92.4,1
+52359,Operations,Nagpur,Bachelor's,f,Naukri,2,51,2.2,1,1,91.35,0
+17489,Sales & Marketing,Pondicherry,Bachelor's,f,other,4,43,0.5,19,3,85.53,1
+89609,Operations,Delhi,Master's,f,linkedin,5,27,0.4,8,4,67.0,0
+37534,Technology,Jamshedpur,Master's,f,sourcing,3,21,4.7,11,0,85.04,0
+15936,Technology,Mysore,Bachelor's,m,sourcing,4,27,0.9,5,4,62.46,1
+72599,Operations,Thiruvananthapuram,High School,f,linkedin,4,21,0.9,18,1,56.83,1
+12167,Technology,Guwahati,Master's,m,sourcing,6,26,3.5,17,2,78.64,1
+97573,Sales & Marketing,Patna,Bachelor's,f,linkedin,6,22,3.5,19,2,88.84,0
+98625,Sales & Marketing,Jaipur,Master's,f,Indeed,0,54,1.6,13,1,57.13,0
+97720,Operations,Thiruvananthapuram,Master's,m,sourcing,6,47,3.2,15,0,52.65,0
+93461,Sales & Marketing,Mumbai,Bachelor's,m,Naukri,0,55,1.1,10,4,74.82,0
+31529,HR,Lucknow,High School,m,sourcing,7,48,2.1,0,2,67.86,0
+66805,Sales & Marketing,Jaipur,Master's,m,sourcing,6,37,1.7,4,1,62.09,0
+70312,HR,Kolkata,High School,f,Naukri,6,42,2.4,4,0,95.64,0
+94390,Technology,Pondicherry,Bachelor's,m,Indeed,1,52,4.8,3,0,78.78,0
+20581,Technology,Mumbai,Bachelor's,f,sourcing,9,51,2.0,16,1,57.61,0
+24465,Sales & Marketing,Pondicherry,Master's,f,sourcing,8,22,3.3,10,2,67.38,1
+70176,Technology,Jaipur,High School,m,other,1,58,3.0,16,1,82.12,1
+28444,Operations,Pondicherry,Master's,f,Naukri,5,31,4.0,15,2,77.94,1
+37445,HR,Jaipur,Master's,m,Naukri,3,34,0.7,12,3,81.23,0
+75883,Technology,Hubli,Bachelor's,m,Naukri,8,36,1.7,18,0,75.11,1
+36610,Technology,Kolkata,Master's,f,linkedin,4,49,3.7,9,3,79.88,1
+12997,Technology,Jaipur,Master's,f,linkedin,6,20,2.0,15,4,84.37,1
+54756,Sales & Marketing,Kochi,High School,m,Indeed,9,23,2.7,2,4,87.1,1
+68650,Operations,Ranchi,Bachelor's,m,Indeed,3,39,4.3,18,2,96.1,0
+97782,Sales & Marketing,Pune,Bachelor's,f,Naukri,1,54,3.7,5,2,57.97,1
+27599,Technology,Thiruvananthapuram,Bachelor's,f,linkedin,2,45,0.9,4,2,71.07,0
+51385,Sales & Marketing,Hubli,Bachelor's,f,Naukri,0,43,0.9,13,0,70.88,1
+12675,Sales & Marketing,Chennai,Bachelor's,m,Naukri,2,59,3.2,11,4,85.85,0
+80907,Sales & Marketing,Mysore,Master's,f,sourcing,3,28,4.4,14,0,98.78,1
+78817,Operations,Delhi,High School,f,Indeed,1,57,2.9,4,3,52.35,0
+12765,HR,Thiruvananthapuram,High School,f,other,1,41,1.7,17,3,77.25,1
+96127,Sales & Marketing,Lucknow,Bachelor's,f,other,2,32,2.0,15,1,67.56,0
+29518,HR,Vadodara,Master's,m,sourcing,3,56,2.3,18,4,68.23,0
+28384,HR,Chennai,High School,m,linkedin,1,31,3.7,12,2,95.93,0
+30973,Sales & Marketing,Gurgaon,Master's,m,Naukri,6,48,0.4,10,0,67.97,1
+51892,Technology,Visakhapatnam,Master's,m,linkedin,0,38,0.3,15,2,63.19,0
+87815,Technology,Noida,High School,f,other,2,59,0.6,9,0,71.43,0
+81130,Sales & Marketing,Kolkata,Bachelor's,m,sourcing,5,36,3.5,5,2,92.65,1
+30393,HR,Noida,Master's,f,Indeed,1,49,0.8,18,4,98.07,1
+37826,Technology,Bangalore,High School,f,Indeed,5,51,2.1,15,2,90.73,0
+20036,Technology,Bangalore,High School,m,linkedin,3,31,4.6,11,4,87.22,0
+62419,HR,Patna,Bachelor's,f,Naukri,5,47,1.3,7,1,91.98,1
+83501,Sales & Marketing,Lucknow,Bachelor's,f,linkedin,1,53,4.9,4,1,52.48,0
+66540,Operations,Thiruvananthapuram,Master's,f,sourcing,8,35,3.9,16,1,59.99,0
+73263,Technology,Shillong,Bachelor's,m,sourcing,3,30,4.6,6,3,99.81,0
+69711,Technology,Hyderabad,Master's,f,other,9,52,3.0,2,2,57.57,0
+54589,Sales & Marketing,Pondicherry,High School,m,Naukri,5,39,1.6,15,1,82.48,1
+86754,Sales & Marketing,Shimla,Master's,m,sourcing,7,35,2.6,13,1,57.68,1
+39383,Technology,Visakhapatnam,High School,m,Naukri,8,22,3.6,12,4,88.57,0
+45009,Technology,Pune,High School,f,linkedin,2,50,4.0,13,2,60.64,1
+47219,Operations,Kolkata,Bachelor's,m,Indeed,2,34,2.3,1,4,81.52,1
+47607,Sales & Marketing,Shimla,Master's,m,Naukri,7,23,3.6,7,4,66.11,1
+67010,Sales & Marketing,Ahmedabad,Bachelor's,m,Indeed,7,23,1.5,16,0,92.14,0
+54112,HR,Amritsar,High School,m,sourcing,2,45,0.3,10,4,68.62,0
+97522,HR,Chandigarh,High School,m,Naukri,3,52,1.6,12,4,74.84,0
+75857,Technology,Hubli,High School,f,sourcing,5,48,3.2,9,0,61.5,0
+70251,Technology,Kolkata,Master's,f,sourcing,6,50,0.8,3,1,67.91,1
+20041,Technology,Surat,High School,f,sourcing,0,30,2.2,11,2,82.51,0
+10774,Operations,Kolkata,Bachelor's,f,sourcing,9,54,3.9,10,3,70.6,1
+55213,Operations,Gurgaon,Bachelor's,m,linkedin,7,52,2.8,11,2,91.3,0
+19448,Technology,Chennai,Bachelor's,f,sourcing,5,29,0.6,6,4,76.86,0
+71360,Operations,Hubli,Bachelor's,m,linkedin,0,56,1.4,14,1,95.43,1
+76279,Operations,Nagpur,Bachelor's,m,sourcing,6,25,1.0,7,2,64.22,0
+35538,Operations,Amritsar,Bachelor's,m,sourcing,4,20,2.8,1,4,79.19,1
+25858,Sales & Marketing,Guwahati,Bachelor's,m,Naukri,6,38,2.1,4,2,57.36,0
+10093,HR,Bangalore,High School,m,Naukri,5,27,0.2,3,3,83.13,0
+44209,Technology,Chennai,High School,m,other,8,44,3.3,6,1,59.68,1
+51255,Sales & Marketing,Kolkata,High School,m,other,5,50,4.8,7,2,99.97,1
+45744,Technology,Pondicherry,High School,f,other,6,39,3.0,2,4,50.13,0
+33940,Technology,Mysore,Bachelor's,f,sourcing,1,54,3.4,16,0,69.48,1
+86554,Technology,Shimla,High School,m,linkedin,6,46,0.6,8,3,74.16,0
+15114,Sales & Marketing,Visakhapatnam,High School,f,linkedin,6,42,4.3,15,1,88.36,1
+63321,Operations,Surat,Master's,f,linkedin,2,32,4.9,3,0,91.62,0
+54887,HR,Thiruvananthapuram,High School,m,linkedin,3,57,3.2,18,3,54.33,0
+85334,Operations,Ahmedabad,High School,m,Naukri,0,39,3.1,12,3,80.34,0
+67263,Operations,Hyderabad,Bachelor's,m,other,3,49,1.6,9,3,84.93,1
+32770,Operations,Hubli,Bachelor's,f,sourcing,7,39,0.0,4,3,86.99,0
+69577,Sales & Marketing,Jaipur,High School,f,Indeed,0,44,1.0,6,3,67.92,1
+62746,Sales & Marketing,Vadodara,Master's,m,sourcing,7,27,1.5,16,2,54.25,1
+37241,Operations,Kochi,Master's,f,sourcing,2,26,4.4,0,1,69.68,1
+48931,Technology,Indore,Master's,m,Naukri,3,59,3.3,6,4,52.09,0
+72782,Sales & Marketing,Coimbatore,Master's,m,sourcing,7,30,3.4,13,2,61.53,0
+49143,Operations,Shillong,Bachelor's,m,other,6,48,2.5,19,1,56.81,0
+49576,HR,Guwahati,Master's,f,Indeed,0,41,3.0,6,0,74.47,1
+17287,Operations,Pondicherry,Master's,m,sourcing,0,53,0.6,7,4,87.16,1
+25202,Sales & Marketing,Thiruvananthapuram,Bachelor's,f,Indeed,2,42,0.5,0,0,51.98,1
+35879,Technology,Chennai,High School,m,other,8,57,0.5,18,3,66.62,0
+61985,Sales & Marketing,Delhi,Master's,m,other,9,20,4.6,6,3,97.39,0
+24076,Operations,Visakhapatnam,Master's,f,Indeed,6,31,1.3,9,0,55.39,0
+89153,Sales & Marketing,Guwahati,Bachelor's,f,Indeed,1,54,1.5,14,4,93.58,0
+26388,Sales & Marketing,Mysore,Bachelor's,m,sourcing,0,51,3.9,10,4,80.21,1
+42587,Technology,Patna,Master's,f,linkedin,8,55,2.6,8,3,63.9,1
+21963,Operations,Guwahati,Bachelor's,m,Indeed,4,24,2.7,3,4,54.41,0
+25728,HR,Hyderabad,Bachelor's,f,Indeed,1,58,0.8,4,0,87.29,1
+97693,Technology,Ranchi,High School,f,Indeed,7,42,4.0,10,1,52.24,0
+17609,HR,Nagpur,High School,m,other,1,43,0.9,16,4,97.83,1
+48220,Operations,Raipur,Master's,f,sourcing,3,58,4.4,7,3,90.42,1
+56177,Sales & Marketing,Nagpur,Master's,f,Indeed,1,30,0.1,11,2,65.79,1
+65926,Sales & Marketing,Thiruvananthapuram,High School,m,sourcing,6,47,0.0,11,2,66.49,1
+89752,Sales & Marketing,Thiruvananthapuram,High School,f,linkedin,2,25,0.0,4,4,52.01,1
+25804,Sales & Marketing,Surat,Master's,m,linkedin,4,55,0.4,12,2,68.83,1
+95703,Technology,Dehradun,Master's,f,Indeed,1,48,2.8,0,4,69.76,1
+83359,Operations,Noida,Master's,f,sourcing,4,28,3.0,6,3,53.47,0
+57396,Sales & Marketing,Raipur,High School,m,other,0,53,4.7,9,4,73.98,0
+38387,Technology,Vadodara,Bachelor's,m,Indeed,5,40,1.8,18,2,66.96,0
+21197,Sales & Marketing,Indore,High School,m,Indeed,6,48,4.1,16,4,68.2,0
+35550,HR,Jamshedpur,High School,m,Naukri,6,44,2.1,16,4,58.87,1
+35919,Operations,Coimbatore,High School,f,Indeed,0,41,0.5,3,2,70.13,0
+75324,HR,Bangalore,Master's,f,Naukri,6,59,3.9,0,2,64.81,1
+57954,Sales & Marketing,Amritsar,Bachelor's,f,Indeed,1,35,0.8,11,3,56.62,0
+30781,Technology,Pune,High School,f,Indeed,2,40,3.1,13,1,94.39,1
+70986,Sales & Marketing,Thiruvananthapuram,Master's,f,Naukri,1,25,1.7,19,2,66.39,0
+56935,Technology,Chennai,Bachelor's,f,Naukri,9,51,4.5,3,1,95.49,1
+86571,Operations,Hubli,Master's,f,other,3,55,2.3,7,4,64.9,1
+95627,HR,Visakhapatnam,High School,m,Naukri,6,22,3.2,4,1,99.74,0
+82361,HR,Kochi,Bachelor's,f,linkedin,7,31,3.5,1,1,89.92,1
+69447,Technology,Mumbai,High School,m,Naukri,2,31,1.0,1,3,67.83,1
+83402,Operations,Coimbatore,Master's,m,other,3,34,2.0,3,0,89.84,0
+80230,Operations,Vadodara,Bachelor's,m,Indeed,2,21,4.5,8,3,82.37,0
+77895,Technology,Dehradun,High School,f,other,8,51,1.4,4,3,92.13,1
+98106,Operations,Shillong,Master's,m,other,1,53,4.0,9,3,65.73,0
+95088,HR,Ranchi,Master's,m,Naukri,7,39,3.9,2,0,96.04,0
+64769,HR,Shimla,Bachelor's,f,Naukri,1,22,4.1,8,2,79.0,0
+50822,Operations,Jamshedpur,High School,m,Naukri,1,21,0.2,7,0,72.89,0
+63899,Technology,Chennai,High School,f,other,6,35,4.7,8,0,61.68,0
+47774,Sales & Marketing,Noida,Bachelor's,f,linkedin,4,50,3.1,1,3,78.32,1
+49672,HR,Jaipur,Bachelor's,m,linkedin,9,27,3.7,5,3,70.01,1
+10868,Sales & Marketing,Lucknow,Master's,f,other,3,55,2.4,15,0,75.7,1
+11451,Sales & Marketing,Lucknow,Master's,m,Naukri,6,26,1.7,1,0,91.28,0
+88921,Operations,Dehradun,Master's,m,Naukri,6,26,3.8,5,3,63.95,0
+70142,Technology,Bhubaneswar,Bachelor's,m,Naukri,4,30,5.0,5,2,70.6,0
+73858,HR,Hubli,Bachelor's,f,sourcing,1,58,0.7,16,3,83.46,1
+32861,Sales & Marketing,Pondicherry,High School,f,linkedin,4,29,2.2,2,1,91.49,0
+33735,HR,Mumbai,Bachelor's,m,linkedin,8,21,1.3,4,3,72.94,1
+99679,HR,Chennai,High School,m,linkedin,2,53,2.8,0,0,54.57,0
+75809,Operations,Indore,High School,f,linkedin,3,44,3.9,2,3,73.47,0
+29003,Technology,Kolkata,Master's,m,sourcing,9,23,0.6,1,4,86.17,1
+87121,Operations,Dehradun,Bachelor's,m,linkedin,2,58,4.1,19,4,98.56,1
+73832,Sales & Marketing,Ranchi,Bachelor's,m,Indeed,3,31,1.2,11,3,89.32,0
+11457,Technology,Ahmedabad,Bachelor's,f,Indeed,5,58,2.5,14,0,96.73,0
+42283,HR,Mysore,High School,m,Naukri,0,23,0.2,16,4,86.73,0
+91166,Operations,Shillong,Bachelor's,m,sourcing,3,39,4.1,10,4,76.04,1
+46857,Technology,Amritsar,Master's,m,Naukri,7,48,1.1,19,3,66.15,0
+23924,Technology,Hyderabad,High School,f,sourcing,0,55,3.7,14,2,82.55,0
+66771,HR,Jaipur,Bachelor's,m,sourcing,0,59,3.7,19,2,52.6,1
+28391,Technology,Ahmedabad,Master's,m,Indeed,4,36,4.3,1,0,97.98,0
+97787,Sales & Marketing,Thiruvananthapuram,Bachelor's,m,sourcing,4,53,2.5,19,2,84.83,0
+69270,HR,Indore,Bachelor's,f,Naukri,0,29,2.3,9,4,98.76,1
+96653,Operations,Pune,Bachelor's,m,sourcing,7,43,1.8,14,1,54.65,1
+35489,Operations,Jamshedpur,High School,f,other,7,29,1.0,7,2,60.93,0
+40889,HR,Ahmedabad,Bachelor's,m,Naukri,3,21,4.4,4,3,61.11,0
+31593,Sales & Marketing,Bhubaneswar,Master's,m,sourcing,5,58,1.1,14,3,96.12,1
+10775,Sales & Marketing,Mysore,High School,m,other,7,34,4.9,12,2,88.7,0
+92702,Technology,Pune,Master's,f,linkedin,0,54,0.0,12,1,69.95,0
+49378,Operations,Thiruvananthapuram,Bachelor's,f,Naukri,3,40,0.2,9,2,85.02,0
+14827,Operations,Bangalore,Bachelor's,m,sourcing,1,56,2.7,15,3,66.0,1
+97163,HR,Guwahati,Bachelor's,f,other,8,29,3.1,4,4,74.11,0
+95350,Sales & Marketing,Shillong,Bachelor's,m,linkedin,4,48,4.6,12,0,55.93,0
+53656,HR,Patna,Bachelor's,f,linkedin,0,49,1.2,6,3,67.59,1
+81481,HR,Indore,High School,f,linkedin,8,22,4.3,18,4,55.04,0
+53640,Sales & Marketing,Jamshedpur,Master's,m,other,3,50,1.8,16,1,89.36,0
+20238,Sales & Marketing,Pondicherry,Master's,f,sourcing,2,32,1.7,6,3,85.45,1
+46743,HR,Raipur,High School,m,Naukri,1,31,1.0,9,3,73.03,0
+94415,Sales & Marketing,Ahmedabad,Bachelor's,m,sourcing,5,26,3.1,14,0,82.67,0
+73011,HR,Pondicherry,Bachelor's,m,other,3,39,0.7,1,0,68.31,0
+31562,Operations,Hyderabad,Master's,m,sourcing,7,42,4.7,16,3,89.18,1
+33178,HR,Jamshedpur,Master's,f,sourcing,2,36,3.1,3,2,61.57,1
+90391,Sales & Marketing,Delhi,High School,m,linkedin,6,46,2.3,1,3,61.38,0
+33875,Technology,Mysore,Master's,m,Indeed,3,43,3.8,1,1,50.99,0
+88956,HR,Kochi,Master's,m,other,8,52,0.2,9,0,55.61,0
+52865,Operations,Dehradun,Bachelor's,f,other,7,54,2.9,5,1,96.68,1
+39548,Sales & Marketing,Thiruvananthapuram,Master's,m,linkedin,0,31,5.0,13,4,90.44,1
+59099,HR,Thiruvananthapuram,Bachelor's,m,linkedin,0,56,1.1,11,0,83.79,1
+73296,Sales & Marketing,Patna,High School,m,sourcing,4,26,4.9,10,1,96.48,0
+28208,Technology,Ahmedabad,Bachelor's,m,sourcing,9,24,3.7,11,3,79.87,1
+16649,Sales & Marketing,Indore,High School,m,sourcing,9,27,3.4,8,1,86.2,1
+20051,HR,Patna,High School,f,Naukri,5,35,4.1,18,1,63.77,0
+93564,Technology,Ranchi,High School,m,Indeed,4,32,1.1,1,4,91.89,0
+87146,Sales & Marketing,Surat,Bachelor's,m,other,4,27,4.5,9,4,95.02,1
+44806,Technology,Shimla,Bachelor's,f,linkedin,5,22,1.8,1,2,81.81,0
+10180,Operations,Indore,Bachelor's,m,other,9,53,0.5,14,0,96.23,0
+94722,Sales & Marketing,Visakhapatnam,Master's,f,linkedin,8,35,3.9,5,1,88.35,0
+79930,Operations,Ahmedabad,Bachelor's,m,linkedin,5,48,4.0,16,2,71.96,1
+72013,Technology,Kochi,Bachelor's,f,linkedin,7,49,4.0,16,4,73.65,1
+88962,Operations,Mysore,Master's,f,other,4,41,4.8,13,0,57.71,1
+67343,Operations,Kochi,High School,m,Naukri,5,49,0.7,0,4,81.69,0
+83520,Sales & Marketing,Delhi,High School,f,linkedin,6,44,1.5,19,1,76.46,0
+16106,Technology,Chandigarh,High School,m,other,1,29,1.5,9,1,53.1,0
+20917,Operations,Amritsar,High School,m,Naukri,3,35,0.6,3,0,61.96,0
+78280,HR,Guwahati,High School,f,Naukri,4,34,3.1,14,1,72.57,0
+71737,Operations,Delhi,Master's,f,Indeed,6,53,3.5,8,2,99.18,0
+34938,Operations,Visakhapatnam,High School,f,other,4,57,4.3,17,2,71.16,1
+91700,Technology,Kochi,High School,f,sourcing,7,36,3.5,19,2,54.92,1
+25377,Sales & Marketing,Patna,Bachelor's,f,linkedin,3,24,3.0,19,2,67.74,1
+44878,Operations,Dehradun,Bachelor's,m,Indeed,3,56,3.3,1,2,85.8,1
+31344,Sales & Marketing,Delhi,High School,m,other,6,42,1.8,9,2,80.01,0
+84103,Technology,Gurgaon,Bachelor's,m,linkedin,5,28,4.7,5,3,60.14,0
+28750,HR,Nagpur,Master's,m,sourcing,4,48,1.5,17,1,83.66,0
+95712,Sales & Marketing,Noida,High School,f,Indeed,0,24,3.8,19,1,73.47,1
+36246,Technology,Lucknow,Master's,f,sourcing,8,58,2.3,11,2,64.85,1
+18812,Operations,Delhi,High School,m,linkedin,6,41,4.7,3,4,73.6,1
+81373,Technology,Delhi,High School,m,Indeed,1,39,1.5,1,2,63.69,1
+87031,HR,Pune,Master's,m,Indeed,5,37,4.4,18,4,93.24,0
+98719,HR,Pune,Master's,m,other,3,47,3.1,17,2,72.8,0
+33866,Technology,Mysore,Master's,m,Indeed,6,42,2.6,15,0,77.36,1
+61092,Operations,Pondicherry,Bachelor's,f,Indeed,8,47,4.7,18,0,55.3,1
+15901,Sales & Marketing,Kochi,Bachelor's,f,sourcing,4,47,2.3,16,2,72.92,0
+66007,Sales & Marketing,Noida,Bachelor's,m,sourcing,1,57,1.6,17,0,89.14,0
+20470,Operations,Chandigarh,High School,f,sourcing,1,35,1.0,12,3,91.03,0
+69079,Technology,Gurgaon,Master's,m,sourcing,6,24,3.0,16,0,87.51,0
+68901,Technology,Lucknow,Bachelor's,m,linkedin,2,36,2.5,18,1,51.93,0
+50965,HR,Chandigarh,High School,m,sourcing,5,55,3.6,11,2,65.22,1
+29668,Operations,Nagpur,Bachelor's,m,Naukri,0,44,2.5,16,0,59.72,1
+71862,Operations,Vadodara,High School,m,Indeed,2,54,1.7,9,3,54.92,0
+54579,Sales & Marketing,Visakhapatnam,Bachelor's,m,linkedin,1,26,0.1,10,4,54.1,1
+86766,Operations,Thiruvananthapuram,Master's,m,linkedin,0,53,3.3,14,0,98.47,1
+17059,Operations,Ahmedabad,Bachelor's,m,other,6,26,3.7,15,3,85.27,1
+86694,Operations,Coimbatore,Master's,m,Indeed,5,57,1.3,14,0,78.51,0
+54481,Technology,Thiruvananthapuram,Master's,m,other,1,55,4.1,11,3,74.69,0
+69715,HR,Ranchi,Bachelor's,f,Indeed,5,36,3.4,12,4,64.36,1
+91460,Technology,Mysore,High School,m,Naukri,4,48,3.2,1,4,79.84,0
+96169,Operations,Kochi,High School,m,Naukri,5,30,3.2,5,4,71.19,1
+58244,Operations,Shimla,High School,f,linkedin,1,57,2.2,15,2,69.31,0
+29226,Technology,Chennai,High School,m,sourcing,1,22,3.2,14,2,80.45,1
+21165,HR,Mumbai,Master's,m,Indeed,7,36,1.9,12,4,90.8,1
+50618,Technology,Mysore,Bachelor's,f,Naukri,4,57,2.8,5,2,89.09,0
+66918,Technology,Thiruvananthapuram,High School,f,sourcing,4,58,3.0,11,2,81.39,0
+33894,Technology,Shillong,High School,f,sourcing,7,37,3.7,6,3,98.69,0
+88998,Operations,Dehradun,High School,m,sourcing,3,37,1.7,9,0,66.33,0
+58843,HR,Pune,Bachelor's,f,linkedin,8,55,1.2,10,0,87.41,1
+38131,Technology,Amritsar,Bachelor's,m,Indeed,9,35,3.1,4,2,92.1,0
+44652,Sales & Marketing,Noida,Master's,f,Indeed,6,30,2.2,2,2,94.82,1
+30926,HR,Shimla,Bachelor's,f,other,3,39,1.0,9,2,87.24,0
+99694,Technology,Patna,High School,f,other,5,33,0.2,19,2,85.82,1
+28913,Technology,Pondicherry,Bachelor's,f,sourcing,3,44,4.4,3,3,90.18,1
+70248,HR,Hubli,Bachelor's,m,Naukri,6,37,2.3,17,1,68.49,0
+93620,HR,Jaipur,High School,m,other,5,55,2.2,8,1,72.23,1
+29348,Sales & Marketing,Pondicherry,Master's,m,Indeed,4,27,3.0,13,2,70.46,1
+84151,Technology,Delhi,High School,m,other,1,38,0.3,18,2,55.67,0
+60245,Operations,Kolkata,High School,f,Indeed,6,38,4.6,0,2,88.13,1
+77298,Sales & Marketing,Chandigarh,Master's,f,Naukri,0,53,0.1,7,3,58.53,1
+94172,Technology,Pune,Master's,f,Naukri,1,42,2.5,18,1,73.32,0
+14330,HR,Jamshedpur,Master's,f,Naukri,5,42,2.4,12,4,69.67,1
+13510,Operations,Chandigarh,High School,m,Naukri,3,35,0.4,19,1,67.92,1
+97659,Technology,Bangalore,Bachelor's,f,Naukri,5,48,2.2,9,3,70.9,0
+74446,HR,Delhi,Master's,m,sourcing,0,47,2.5,8,0,97.96,0
+23284,HR,Patna,High School,m,linkedin,4,36,0.3,18,4,81.44,1
+38374,Technology,Ranchi,High School,f,other,2,53,2.9,7,2,80.6,1
+55582,HR,Bhubaneswar,Master's,m,Indeed,3,43,0.7,0,2,79.73,1
+72049,Operations,Indore,High School,f,other,1,21,0.9,13,0,88.33,0
+32207,Sales & Marketing,Pune,Master's,m,other,1,52,3.0,0,0,68.5,1
+32950,Operations,Pondicherry,Master's,m,Indeed,3,54,4.6,7,2,81.56,0
+28179,Sales & Marketing,Lucknow,Bachelor's,f,linkedin,6,51,4.7,1,4,95.95,1
+22125,Sales & Marketing,Chandigarh,Bachelor's,m,linkedin,2,20,4.8,19,2,79.2,0
+89671,HR,Ranchi,Bachelor's,f,other,6,50,3.3,1,0,83.54,1
+70376,Technology,Delhi,Master's,m,linkedin,9,40,0.7,3,1,90.16,1
+80471,Technology,Gurgaon,Bachelor's,m,other,6,41,0.8,0,4,65.82,0
+78193,HR,Thiruvananthapuram,Bachelor's,f,Indeed,3,28,4.4,7,2,84.58,1
+26881,HR,Bhubaneswar,Master's,f,other,8,58,3.7,7,0,67.49,0
+35394,HR,Jamshedpur,Master's,f,sourcing,3,20,3.0,11,2,56.86,1
+79260,Operations,Delhi,Bachelor's,f,Naukri,8,36,1.6,3,4,77.41,0
+88654,Sales & Marketing,Noida,High School,f,Indeed,8,49,0.0,15,2,99.05,1
+44835,HR,Hubli,Master's,m,Naukri,2,32,3.1,9,0,54.09,0
+84091,HR,Surat,Master's,m,Indeed,9,25,4.5,11,1,80.23,1
+77306,HR,Jamshedpur,High School,f,Indeed,3,20,2.9,16,2,69.06,1
+50577,Operations,Gurgaon,Master's,m,Naukri,4,57,0.7,0,3,53.1,1
+47746,Technology,Nagpur,High School,m,sourcing,0,43,0.6,0,0,72.45,0
+35118,Sales & Marketing,Chennai,High School,f,linkedin,2,59,0.4,9,2,78.27,0
+25627,Technology,Delhi,Bachelor's,f,Indeed,6,41,2.8,14,1,84.77,0
+13171,Operations,Gurgaon,Master's,f,other,6,24,1.5,15,1,77.82,1
+56368,Sales & Marketing,Ranchi,Master's,m,sourcing,4,44,2.0,19,0,77.08,0
+92630,Operations,Shimla,Master's,m,Naukri,2,41,3.7,12,4,56.7,1
+98209,Technology,Shimla,Bachelor's,m,sourcing,4,31,3.7,17,0,90.84,0
+51760,Operations,Delhi,Bachelor's,f,other,3,55,2.4,10,3,79.29,0
+70205,Sales & Marketing,Raipur,Master's,f,sourcing,7,44,1.6,15,0,61.48,1
+57597,Technology,Surat,High School,m,linkedin,2,41,3.4,6,4,84.17,0
+20345,Sales & Marketing,Shimla,Bachelor's,f,Indeed,6,36,0.5,18,0,82.07,1
+91001,HR,Surat,Bachelor's,f,linkedin,3,31,3.6,6,0,69.26,1
+18352,Sales & Marketing,Bhubaneswar,High School,m,Indeed,5,22,2.1,1,1,77.66,1
+28528,Sales & Marketing,Ranchi,Master's,m,other,3,32,4.5,11,2,62.47,0
+57403,Technology,Kochi,Master's,f,other,9,40,1.8,5,2,90.9,0
+35133,Technology,Kolkata,High School,m,other,5,22,2.9,0,3,66.33,1
+26452,Operations,Ahmedabad,Master's,m,other,7,57,4.0,14,3,81.35,0
+38876,Sales & Marketing,Lucknow,Bachelor's,f,linkedin,0,35,4.9,0,1,67.87,1
+13361,HR,Kolkata,High School,m,linkedin,4,59,2.1,3,1,75.82,1
+96446,Sales & Marketing,Shillong,Master's,f,linkedin,5,54,2.7,13,2,63.89,1
+42118,HR,Mumbai,Bachelor's,m,sourcing,7,41,2.0,15,0,89.21,1
+51568,Sales & Marketing,Nagpur,Bachelor's,m,Naukri,8,35,2.4,1,3,62.16,1
+60218,Operations,Bhubaneswar,Bachelor's,m,Indeed,0,43,4.4,2,2,94.18,1
+44828,HR,Raipur,Master's,f,Indeed,5,40,4.0,11,0,90.6,1
+31554,HR,Amritsar,Bachelor's,m,sourcing,6,56,2.2,18,4,50.19,0
+36894,HR,Shillong,Master's,m,sourcing,9,39,2.0,12,2,72.69,1
+26245,HR,Bangalore,High School,m,Naukri,8,43,3.0,15,4,59.45,1
+34101,Sales & Marketing,Chennai,High School,f,linkedin,4,54,4.6,2,3,82.37,1
+37391,Technology,Ranchi,High School,m,linkedin,9,44,1.7,19,3,72.21,0
+61582,Sales & Marketing,Ahmedabad,Bachelor's,m,sourcing,5,48,2.1,4,4,82.43,0
+68009,Operations,Surat,Bachelor's,m,Indeed,5,41,4.7,13,3,91.72,1
+35873,Technology,Pune,Master's,m,linkedin,5,46,4.6,8,2,51.36,1
+91228,Operations,Bhubaneswar,Master's,f,sourcing,1,59,2.7,18,2,86.4,1
+61152,Sales & Marketing,Mumbai,Master's,m,Indeed,4,57,0.1,19,2,76.67,0
+85670,Technology,Indore,High School,f,Naukri,6,32,0.0,8,3,63.74,0
+13424,HR,Dehradun,Master's,f,sourcing,6,43,2.0,10,2,75.43,0
+62671,HR,Amritsar,Master's,m,Indeed,3,59,0.3,10,1,92.95,1
+21597,Sales & Marketing,Noida,Master's,f,sourcing,3,24,0.8,13,0,83.84,0
+80035,Technology,Ahmedabad,Bachelor's,m,linkedin,9,33,3.2,0,0,75.44,0
+42937,HR,Patna,High School,m,Naukri,9,30,2.3,16,2,57.98,1
+84446,Operations,Kolkata,Master's,f,Indeed,9,43,3.2,8,4,88.53,0
+29347,Sales & Marketing,Shimla,High School,m,linkedin,3,31,3.6,1,1,69.02,0
+47440,Sales & Marketing,Jaipur,Master's,f,sourcing,7,57,0.8,2,4,96.11,0
+56696,Technology,Indore,Bachelor's,f,other,4,39,2.6,1,2,90.32,0
+77812,Operations,Delhi,Master's,m,Indeed,6,49,0.9,9,0,62.8,1
+61943,Sales & Marketing,Shimla,High School,m,other,4,59,2.5,3,0,66.66,1
+94073,Technology,Hubli,Master's,m,linkedin,6,20,2.8,10,2,69.09,0
+19996,Sales & Marketing,Chennai,Bachelor's,f,Naukri,1,31,4.3,14,3,81.18,1
+33368,HR,Ranchi,High School,f,sourcing,3,28,2.9,13,4,90.46,0
+77135,Operations,Hubli,High School,f,other,5,25,0.3,7,4,82.77,0
+58534,Sales & Marketing,Vadodara,Bachelor's,m,Indeed,0,57,0.3,15,3,77.55,1
+51155,Sales & Marketing,Patna,High School,f,linkedin,3,56,4.8,8,3,60.22,0
+29472,Sales & Marketing,Patna,High School,f,sourcing,0,57,4.5,14,4,71.98,1
+41159,HR,Amritsar,High School,f,linkedin,3,58,2.6,14,3,55.78,0
+88127,HR,Nagpur,Master's,f,sourcing,2,33,1.7,4,1,62.15,0
+97722,Operations,Raipur,High School,f,Indeed,8,35,0.7,0,3,75.22,0
+87621,HR,Indore,Master's,m,linkedin,1,42,4.9,11,0,69.18,1
+22039,Operations,Hubli,High School,f,Indeed,4,57,4.5,10,0,65.68,1
+12772,Operations,Thiruvananthapuram,Master's,f,Naukri,0,34,0.5,7,2,50.22,0
+21730,HR,Noida,Bachelor's,f,other,0,24,4.9,0,4,73.11,0
+74127,Operations,Mumbai,Master's,f,Naukri,1,34,0.0,5,0,73.15,1
+52046,Operations,Chandigarh,High School,m,Naukri,9,33,2.1,17,0,62.52,1
+51864,Sales & Marketing,Noida,High School,m,sourcing,9,34,3.5,5,3,75.77,1
+48149,Sales & Marketing,Gurgaon,Bachelor's,m,sourcing,2,58,4.1,18,1,58.24,0
+13979,Technology,Mumbai,High School,m,Naukri,6,58,2.8,17,1,76.14,0
+52655,Technology,Nagpur,Master's,f,other,7,28,1.0,8,4,95.28,0
+71647,HR,Shimla,Bachelor's,m,sourcing,9,37,2.3,13,4,58.39,1
+42222,Technology,Mumbai,Bachelor's,m,linkedin,2,33,2.1,4,2,53.36,1
+31172,Technology,Patna,Bachelor's,m,Naukri,4,46,1.5,15,4,62.82,0
+48141,Technology,Bhubaneswar,High School,m,Naukri,3,50,4.7,9,1,92.99,0
+35974,Sales & Marketing,Kochi,High School,m,other,1,26,2.5,7,3,98.37,0
+18405,HR,Ahmedabad,Master's,m,Naukri,6,22,4.6,1,2,87.84,0
+70555,Sales & Marketing,Thiruvananthapuram,Master's,f,linkedin,9,22,3.1,1,3,61.42,1
+72984,Technology,Thiruvananthapuram,Master's,f,Naukri,2,22,4.4,13,2,75.13,1
+46541,HR,Ranchi,Bachelor's,f,Naukri,9,20,2.3,19,0,55.32,0
+54438,Technology,Jamshedpur,High School,m,sourcing,0,27,4.1,6,3,83.85,0
+73902,Operations,Noida,Master's,m,Indeed,9,59,4.3,8,1,85.67,1
+44990,Operations,Gurgaon,Master's,m,other,3,52,0.6,2,4,57.7,1
+86352,Operations,Thiruvananthapuram,Bachelor's,m,Indeed,0,28,3.0,1,3,66.39,1
+65899,HR,Surat,High School,m,Indeed,1,42,3.3,1,4,92.15,1
+88981,Operations,Shillong,Master's,f,other,2,38,0.6,2,3,83.14,1
+18148,Operations,Visakhapatnam,Master's,f,linkedin,5,43,0.4,16,1,51.45,1
+88771,Sales & Marketing,Hubli,Bachelor's,f,linkedin,3,31,0.8,0,0,68.8,0
+36515,Sales & Marketing,Visakhapatnam,Master's,f,sourcing,5,31,3.1,2,1,96.57,1
+82420,HR,Mumbai,Bachelor's,f,other,5,40,3.0,3,2,58.28,0
+52366,HR,Hubli,Bachelor's,f,sourcing,5,35,0.9,8,4,96.93,0
+50389,Operations,Coimbatore,Master's,f,linkedin,9,54,0.4,19,3,98.37,1
+19559,Operations,Coimbatore,High School,m,other,4,48,4.9,6,4,62.98,0
+81803,HR,Dehradun,Master's,f,Naukri,8,27,4.2,12,1,73.13,0
+89513,Operations,Thiruvananthapuram,High School,f,sourcing,3,31,0.2,1,4,68.53,0
+26484,Sales & Marketing,Jaipur,Master's,m,other,3,57,4.5,6,0,71.06,1
+10388,HR,Dehradun,High School,m,other,1,28,0.1,4,0,73.6,1
+95403,Technology,Mumbai,High School,f,Naukri,9,30,0.6,17,2,71.46,1
+52391,Operations,Indore,Master's,f,linkedin,6,51,0.9,19,1,84.12,0
+26968,HR,Vadodara,Master's,f,sourcing,7,29,2.5,14,2,87.11,0
+28429,HR,Hyderabad,Bachelor's,f,sourcing,3,43,1.9,10,0,55.06,0
+85088,Operations,Dehradun,Bachelor's,m,Naukri,2,51,2.5,2,2,67.77,0
+94008,HR,Thiruvananthapuram,Bachelor's,m,sourcing,5,35,4.8,4,0,56.83,0
+55514,Sales & Marketing,Coimbatore,High School,m,linkedin,5,49,3.5,8,0,85.48,0
+69018,Technology,Dehradun,Bachelor's,f,Naukri,9,44,1.5,1,3,86.75,0
+68889,Technology,Pune,Bachelor's,f,linkedin,8,40,3.0,4,0,72.49,1
+54803,Operations,Hyderabad,High School,f,sourcing,4,57,4.4,6,4,61.03,1
+34543,Sales & Marketing,Amritsar,Bachelor's,f,other,7,36,3.0,14,0,96.03,1
+62182,Sales & Marketing,Chennai,Bachelor's,f,Naukri,7,43,0.5,9,1,72.34,0
+90785,Sales & Marketing,Amritsar,High School,f,other,5,59,3.5,4,1,94.55,1
+22485,Operations,Bhubaneswar,Master's,m,linkedin,7,28,4.5,14,3,66.45,0
+86685,HR,Coimbatore,High School,f,linkedin,0,42,0.6,12,4,53.79,0
+21330,HR,Chandigarh,High School,m,sourcing,3,47,2.0,10,2,72.42,0
+63280,Operations,Hubli,Bachelor's,m,sourcing,1,20,1.7,1,3,92.74,0
+71219,Sales & Marketing,Mumbai,High School,m,sourcing,5,57,0.9,19,1,72.48,1
+74264,Operations,Ranchi,Master's,m,linkedin,1,44,4.4,2,2,97.61,0
+41117,HR,Jaipur,Bachelor's,f,other,9,33,4.3,7,0,71.57,0
+88999,HR,Patna,Master's,m,Indeed,3,44,1.3,9,3,58.28,1
+64056,Operations,Raipur,Bachelor's,m,sourcing,2,28,3.4,8,2,80.01,1
+28035,Technology,Mysore,High School,m,other,8,55,4.6,19,2,97.71,1
+58049,Operations,Bangalore,High School,m,Naukri,9,33,1.6,8,1,77.88,1
+12459,Sales & Marketing,Hyderabad,Bachelor's,f,Naukri,3,29,1.7,8,4,77.88,0
+67117,Sales & Marketing,Vadodara,Master's,m,other,8,21,0.9,16,0,72.22,1
+85322,HR,Noida,High School,f,Naukri,5,29,4.8,19,2,77.17,0
+44006,HR,Patna,Bachelor's,m,sourcing,7,51,3.1,13,0,77.71,0
+95829,Sales & Marketing,Hyderabad,Bachelor's,m,other,0,51,4.3,8,2,79.66,1
+78002,HR,Jamshedpur,High School,f,other,4,25,2.7,19,2,56.82,0
+71570,Operations,Kolkata,Master's,f,other,5,41,2.5,14,4,58.74,0
+39525,Sales & Marketing,Kolkata,High School,m,linkedin,0,56,0.8,3,1,58.3,0
+72760,Sales & Marketing,Vadodara,Bachelor's,m,other,1,36,4.6,0,0,52.19,1
+32659,HR,Vadodara,Master's,m,Indeed,3,50,2.9,13,3,57.32,0
+37539,Operations,Thiruvananthapuram,Bachelor's,f,other,3,49,3.6,6,3,93.02,1
+62445,Sales & Marketing,Bhubaneswar,Bachelor's,m,other,7,59,4.8,18,4,59.15,0
+23933,Sales & Marketing,Thiruvananthapuram,Bachelor's,f,linkedin,9,40,1.1,18,3,61.74,0
+10492,HR,Chandigarh,Bachelor's,f,Indeed,0,23,1.2,11,0,96.11,0
+44287,Sales & Marketing,Nagpur,Bachelor's,f,linkedin,9,24,2.4,5,3,75.86,1
+24447,Sales & Marketing,Jaipur,Master's,f,Indeed,3,42,4.3,11,2,69.08,1
+28305,Technology,Ranchi,Bachelor's,m,linkedin,4,42,4.0,4,0,70.02,1
+44974,HR,Chennai,Bachelor's,f,Naukri,7,42,4.4,6,1,97.29,1
+88913,Sales & Marketing,Shillong,High School,m,sourcing,4,27,3.8,12,0,55.61,1
+94126,Operations,Thiruvananthapuram,Master's,m,other,4,26,2.3,19,1,76.11,0
+25469,HR,Visakhapatnam,High School,m,other,7,48,1.9,3,3,87.07,0
+67945,HR,Kochi,High School,f,sourcing,2,43,1.0,13,2,89.06,1
+81200,Operations,Gurgaon,Master's,f,Indeed,6,40,2.6,6,4,98.34,1
+24660,HR,Noida,High School,m,Naukri,0,45,3.8,5,3,95.14,1
+58888,Operations,Chennai,High School,f,other,2,56,1.8,10,3,67.45,0
+43217,Technology,Jamshedpur,Master's,f,other,9,30,2.2,18,1,51.93,0
+34485,Technology,Guwahati,High School,f,linkedin,2,58,3.3,10,4,96.33,0
+52034,Operations,Jaipur,High School,m,sourcing,2,58,0.7,18,2,55.89,0
+81327,Operations,Shimla,Bachelor's,f,Naukri,4,57,4.5,10,1,99.94,1
+22669,Sales & Marketing,Ranchi,Master's,f,Naukri,3,53,4.7,13,1,91.29,1
+75437,Operations,Pune,Master's,f,other,1,47,1.6,3,4,71.84,1
+93003,Operations,Visakhapatnam,Master's,m,Naukri,5,41,2.1,12,0,56.84,1
+89420,Sales & Marketing,Ranchi,Master's,m,other,2,30,1.4,0,3,69.31,1
+75154,Operations,Mumbai,High School,m,linkedin,8,32,0.5,14,2,95.19,0
+32163,Sales & Marketing,Kolkata,Bachelor's,m,other,5,41,0.9,10,1,82.76,0
+91259,Technology,Bangalore,Bachelor's,m,Naukri,4,39,1.7,14,4,65.72,1
+92636,Sales & Marketing,Kochi,Master's,f,linkedin,1,20,1.3,12,0,68.1,1
+99312,Sales & Marketing,Dehradun,High School,m,Indeed,1,26,5.0,15,2,70.1,1
+79319,Technology,Patna,Master's,m,other,7,36,5.0,4,0,97.61,0
+17330,Technology,Shillong,Bachelor's,f,linkedin,0,25,0.7,6,4,60.51,1
+23352,Operations,Chandigarh,Bachelor's,f,Indeed,0,21,4.7,1,2,77.19,1
+86456,Technology,Chandigarh,Master's,m,Indeed,1,51,1.5,6,3,70.31,0
+56004,HR,Visakhapatnam,Bachelor's,f,other,6,52,0.1,8,1,60.25,0
+95381,Operations,Hyderabad,Master's,m,Indeed,9,51,3.5,9,2,95.04,1
+78074,Technology,Noida,Bachelor's,f,linkedin,4,46,4.2,7,4,51.46,1
+60439,Technology,Kochi,Bachelor's,m,Naukri,1,44,2.8,14,4,67.51,1
+79738,HR,Chandigarh,Master's,m,other,3,28,3.5,1,1,95.61,0
+84318,Sales & Marketing,Mumbai,Master's,f,Naukri,7,53,4.7,16,1,79.36,0
+64164,Operations,Vadodara,Master's,f,linkedin,4,30,1.5,10,0,67.13,1
+40017,Technology,Bhubaneswar,Bachelor's,f,other,5,33,2.0,2,0,62.1,0
+41431,HR,Coimbatore,High School,f,Indeed,5,32,4.9,16,1,68.51,1
+49083,Sales & Marketing,Pune,Bachelor's,f,Indeed,2,35,0.8,2,4,93.38,0
+92411,HR,Jaipur,Master's,m,linkedin,3,54,2.9,18,0,74.08,1
+96163,Operations,Mysore,Master's,f,Indeed,2,33,3.8,19,2,71.56,0
+86308,Operations,Bangalore,Bachelor's,m,other,8,25,3.7,1,2,55.1,0
+83160,HR,Thiruvananthapuram,High School,f,Indeed,4,58,0.7,14,3,82.4,0
+49289,Technology,Visakhapatnam,Master's,m,sourcing,6,28,1.4,5,0,71.63,1
+60563,Sales & Marketing,Thiruvananthapuram,Bachelor's,f,other,7,26,0.3,13,2,82.11,1
+99637,Sales & Marketing,Jaipur,Master's,f,sourcing,2,34,3.1,9,3,91.01,1
+66996,Technology,Kolkata,Master's,m,Indeed,8,27,1.6,0,0,58.44,0
+59154,Technology,Nagpur,Bachelor's,m,Naukri,6,49,4.1,17,3,77.69,1
+98859,Technology,Shimla,High School,f,linkedin,3,38,4.7,11,4,70.68,0
+22958,Technology,Thiruvananthapuram,Master's,m,sourcing,8,26,5.0,15,3,79.99,1
+50378,Technology,Visakhapatnam,High School,m,Naukri,5,38,1.1,2,0,61.82,0
+19786,HR,Jaipur,Master's,f,Naukri,8,45,1.6,17,1,83.05,0
+51235,Operations,Dehradun,Master's,m,Naukri,6,36,1.9,7,3,52.96,0
+84252,Technology,Shillong,Bachelor's,f,other,9,33,2.0,2,2,72.29,0
+25723,Sales & Marketing,Visakhapatnam,Master's,f,sourcing,9,26,2.5,0,3,94.37,0
+21733,Technology,Kochi,Bachelor's,f,other,1,28,0.3,11,1,74.78,1
+17215,Operations,Shillong,Master's,f,linkedin,6,35,0.6,6,1,54.28,0
+29418,Sales & Marketing,Pondicherry,High School,f,linkedin,0,38,2.8,5,4,60.64,1
+21504,HR,Pune,High School,m,sourcing,2,42,1.8,7,1,83.03,1
+82365,HR,Hyderabad,High School,m,linkedin,1,36,2.2,10,4,90.37,1
+66526,Operations,Mysore,High School,f,Naukri,9,22,1.2,7,3,80.49,0
+30844,Technology,Guwahati,Master's,m,Naukri,9,59,4.8,12,1,56.65,1
+37231,HR,Vadodara,Bachelor's,m,other,2,25,1.0,4,4,53.07,0
+14279,HR,Chennai,Master's,m,sourcing,0,57,2.3,0,0,76.83,1
+39950,Sales & Marketing,Shimla,Bachelor's,f,sourcing,8,39,0.5,19,4,57.5,0
+90111,Sales & Marketing,Surat,Master's,f,Indeed,2,56,0.5,1,3,91.92,1
+15170,Technology,Bangalore,Bachelor's,m,other,5,33,4.0,19,2,75.94,0
+70787,Operations,Mysore,Master's,m,Indeed,4,52,0.2,16,0,79.75,0
+24722,HR,Pune,Bachelor's,m,other,0,35,4.6,1,4,74.78,0
+87308,Technology,Chennai,Bachelor's,m,other,0,42,2.9,8,1,51.7,1
+97087,Sales & Marketing,Mumbai,High School,f,other,9,59,3.9,12,3,90.5,1
+76194,Operations,Gurgaon,Bachelor's,f,Indeed,6,35,3.8,4,1,57.06,0
+81663,Technology,Guwahati,High School,m,sourcing,2,53,1.4,3,3,99.53,1
+54796,Sales & Marketing,Dehradun,Master's,f,Indeed,0,35,3.9,4,1,73.4,0
+50700,Sales & Marketing,Amritsar,Master's,m,Naukri,1,29,4.9,19,0,76.63,0
+33278,Operations,Surat,Master's,f,Indeed,7,22,2.0,12,3,75.78,0
+53864,Operations,Ahmedabad,Master's,m,Naukri,9,40,0.4,0,4,57.76,0
+86438,HR,Hyderabad,Bachelor's,m,linkedin,6,35,0.3,1,0,83.33,0
+37363,Technology,Gurgaon,Bachelor's,f,other,0,52,4.5,15,3,57.07,1
+78325,Sales & Marketing,Mysore,Bachelor's,m,Indeed,6,48,3.3,9,1,70.01,0
+83421,Operations,Mysore,Bachelor's,m,sourcing,0,24,0.6,6,3,92.0,1
+60401,Sales & Marketing,Hyderabad,Bachelor's,m,other,7,38,4.9,19,4,56.58,1
+23737,Operations,Gurgaon,High School,m,Naukri,8,55,1.8,3,4,79.91,1
+19401,HR,Nagpur,Bachelor's,m,Naukri,9,41,2.2,18,0,88.7,0
+91915,Sales & Marketing,Amritsar,Master's,f,other,2,51,0.5,13,1,78.64,0
+72475,Sales & Marketing,Chennai,Master's,m,Naukri,1,43,4.3,15,0,89.88,0
+15266,HR,Kolkata,Bachelor's,f,Indeed,2,46,0.3,14,4,97.51,1
+94765,Operations,Noida,Master's,m,Naukri,5,44,3.9,2,4,71.81,1
+47095,Operations,Chandigarh,Master's,f,Naukri,9,45,1.2,11,0,84.75,0
+37094,HR,Delhi,High School,m,Naukri,6,30,0.5,3,0,76.43,1
+48810,Technology,Kolkata,Bachelor's,f,sourcing,4,39,2.0,0,1,60.34,1
+70934,Technology,Lucknow,Bachelor's,m,Naukri,0,38,4.4,7,4,98.89,0
+52833,HR,Noida,Master's,f,sourcing,6,34,3.0,0,2,63.36,0
+21639,HR,Surat,High School,f,other,0,41,3.0,18,4,77.84,1
+42829,Operations,Kochi,Master's,f,Indeed,3,35,1.0,7,1,86.85,0
+55323,Operations,Jaipur,Bachelor's,m,other,6,46,1.6,15,1,54.47,1
+82446,HR,Pondicherry,High School,m,Indeed,1,46,0.4,15,4,80.23,1
+82893,Technology,Mysore,Bachelor's,f,Indeed,3,46,1.0,16,1,74.83,1
+41203,Sales & Marketing,Chandigarh,High School,f,sourcing,5,42,2.9,8,4,54.03,1
+17974,Technology,Kochi,Bachelor's,m,other,1,52,1.1,6,1,66.12,0
+99630,HR,Bangalore,Master's,f,Naukri,3,48,0.0,9,4,70.02,1
+14618,Sales & Marketing,Mysore,Bachelor's,f,other,8,50,1.8,18,0,73.18,0
+47870,HR,Mumbai,High School,m,sourcing,6,35,2.4,8,4,91.5,0
+19950,HR,Nagpur,High School,m,Naukri,5,40,0.2,8,3,71.35,1
+42616,HR,Lucknow,High School,f,sourcing,8,57,2.9,16,2,57.37,0
+68959,Technology,Hyderabad,Bachelor's,m,sourcing,2,37,4.8,14,3,54.64,0
+26199,Sales & Marketing,Shillong,Master's,f,sourcing,1,48,4.9,1,0,92.08,0
+88087,Sales & Marketing,Delhi,High School,m,other,9,21,1.6,16,3,59.44,1
+50158,Operations,Jaipur,Master's,m,Indeed,9,27,4.3,5,1,65.68,1
+17363,HR,Raipur,Master's,m,sourcing,5,25,1.2,8,3,64.19,0
+87915,Technology,Shillong,High School,f,other,7,31,4.5,5,4,55.78,0
+19920,Operations,Patna,Bachelor's,f,other,1,30,2.0,0,0,94.58,1
+16404,Operations,Ahmedabad,High School,m,Indeed,5,30,3.4,18,0,54.98,0
+10326,HR,Mysore,Master's,m,Indeed,7,53,0.5,13,1,84.61,1
+66645,HR,Surat,High School,m,linkedin,5,57,0.9,12,2,52.32,0
+42608,Sales & Marketing,Hyderabad,High School,m,linkedin,0,40,3.1,12,1,87.44,0
+82777,Sales & Marketing,Chandigarh,High School,f,sourcing,3,25,4.5,6,1,52.21,0
+79501,Operations,Guwahati,High School,m,Indeed,9,29,1.0,3,4,96.02,0
+49804,Operations,Patna,Bachelor's,m,linkedin,8,53,3.6,18,3,69.26,1
+27907,Technology,Dehradun,Bachelor's,f,other,5,42,4.9,3,2,66.02,1
+57169,Operations,Chandigarh,High School,m,linkedin,0,50,3.5,15,1,58.4,0
+69273,HR,Amritsar,Bachelor's,f,Naukri,4,32,0.1,6,3,72.04,0
+28661,Technology,Mysore,High School,f,sourcing,8,30,4.4,16,1,52.62,0
+16645,Operations,Ahmedabad,Bachelor's,f,Naukri,2,41,2.2,18,3,79.85,0
+57375,Technology,Visakhapatnam,Master's,m,Naukri,4,25,3.5,4,3,95.59,1
+21994,Technology,Shillong,Bachelor's,m,sourcing,2,58,2.5,17,1,92.47,0
+93382,Sales & Marketing,Chennai,Bachelor's,m,sourcing,8,39,3.5,8,2,63.67,0
+45755,Sales & Marketing,Shillong,Master's,f,linkedin,3,31,2.0,7,3,72.12,1
+56120,Operations,Hyderabad,High School,m,linkedin,7,54,1.9,19,0,94.4,1
+77267,Operations,Visakhapatnam,Master's,f,sourcing,3,31,0.0,18,3,92.54,0
+47961,Sales & Marketing,Indore,Bachelor's,f,sourcing,2,54,0.4,8,1,80.27,1
+37525,Operations,Guwahati,Bachelor's,f,linkedin,0,41,1.3,3,4,97.17,1
+88657,Operations,Jaipur,Master's,f,Naukri,1,22,0.9,13,0,88.64,0
+76736,HR,Chennai,High School,m,other,4,25,1.4,1,4,73.4,1
+55058,Operations,Indore,High School,m,sourcing,0,48,2.8,3,4,84.16,1
+77587,Technology,Bhubaneswar,High School,m,Indeed,0,41,1.2,17,1,74.12,0
+49512,Sales & Marketing,Indore,Master's,m,other,0,48,4.8,15,2,62.6,0
+84712,Technology,Delhi,Bachelor's,f,linkedin,9,55,4.0,17,1,57.69,0
+59609,Technology,Raipur,High School,f,linkedin,6,33,4.0,7,1,94.02,1
+30715,Sales & Marketing,Ahmedabad,Master's,m,linkedin,3,31,4.4,7,1,92.28,0
+65784,HR,Gurgaon,High School,m,linkedin,4,44,3.8,15,4,92.37,1
+10193,Operations,Gurgaon,Bachelor's,m,Naukri,4,28,4.4,6,0,80.98,0
+29774,Technology,Vadodara,High School,f,Indeed,2,20,2.7,10,1,61.42,0
+16033,Technology,Gurgaon,Master's,m,Naukri,4,31,2.9,11,4,70.66,1
+75376,Technology,Amritsar,Bachelor's,m,sourcing,7,46,2.1,2,0,51.85,1
+64348,Operations,Shimla,Master's,f,Indeed,6,26,3.1,6,4,92.2,0
+36021,Operations,Shimla,High School,f,Naukri,7,37,3.6,13,3,70.94,1
+52459,HR,Pune,Master's,f,other,7,28,2.2,14,1,94.66,1
+26280,HR,Hubli,High School,m,other,6,49,4.1,2,4,50.29,0
+28145,Technology,Thiruvananthapuram,Master's,m,Naukri,3,59,2.3,9,2,73.24,0
+75306,Sales & Marketing,Vadodara,High School,f,sourcing,8,59,1.3,2,0,82.31,1
+55440,Technology,Bangalore,Master's,f,linkedin,7,48,4.5,19,4,84.21,0
+64492,HR,Surat,Master's,f,linkedin,3,20,0.4,2,4,74.38,1
+75433,Sales & Marketing,Mumbai,High School,m,sourcing,5,40,1.9,10,4,50.36,1
+15920,Sales & Marketing,Pune,High School,f,sourcing,5,50,4.2,2,2,79.84,0
+38460,HR,Indore,Bachelor's,m,Naukri,6,25,0.1,13,4,93.87,0
+17777,Operations,Gurgaon,High School,f,Naukri,9,39,0.4,7,2,91.69,0
+54615,Operations,Hyderabad,High School,m,other,5,38,1.7,17,1,75.07,1
+20370,HR,Indore,Bachelor's,f,Indeed,2,27,1.2,3,3,95.56,1
+42760,Sales & Marketing,Guwahati,Bachelor's,m,Naukri,1,37,1.5,10,4,50.86,0
+84055,Operations,Kolkata,Master's,m,linkedin,9,34,1.3,7,2,91.76,0
+88789,Operations,Shillong,Master's,m,linkedin,4,24,2.5,12,3,95.94,0
+91537,HR,Raipur,Master's,f,sourcing,7,27,1.0,10,3,96.97,0
+11781,Technology,Bhubaneswar,Bachelor's,f,Indeed,2,47,4.6,19,0,92.92,1
+47970,Technology,Delhi,Master's,m,linkedin,5,27,4.5,3,3,97.47,0
+79934,HR,Raipur,High School,m,other,4,46,4.5,0,0,62.21,1
+13707,Sales & Marketing,Ranchi,High School,m,linkedin,1,34,2.0,17,2,67.01,0
+56914,Operations,Thiruvananthapuram,High School,f,Indeed,1,49,3.6,17,0,87.73,0
+50691,Sales & Marketing,Nagpur,High School,m,other,0,24,1.0,9,4,53.51,0
+70531,Technology,Amritsar,High School,f,sourcing,2,39,2.1,11,3,86.31,0
+40096,Technology,Guwahati,Bachelor's,m,linkedin,2,23,0.2,1,3,90.33,1
+66123,HR,Noida,Master's,f,other,7,29,0.0,6,2,99.66,0
